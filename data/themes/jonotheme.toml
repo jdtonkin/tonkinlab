@@ -5,12 +5,12 @@ name = "jonotheme"
 light = true
 
 # Primary
-primary = "#333a56"
+primary = "#40aac0"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#333a56"
-menu_text_active = "#52658f"
+menu_text = "#c05640"
+menu_text_active = "#e0aba0"
 menu_title = "#fff"
 
 # Home sections
