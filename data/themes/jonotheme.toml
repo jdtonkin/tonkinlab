@@ -5,12 +5,12 @@ name = "jonotheme"
 light = true
 
 # Primary
-primary = "#52658f"
+primary = "#225C80"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#333a56"
-menu_text_active = "#52658f"
+menu_text = "#225C80"
+menu_text_active = "#4B9BCC"
 menu_title = "#fff"
 
 # Home sections
@@ -26,3 +26,22 @@ home_section_even = "rgb(247, 247, 247)"
 # #e0aba0
 
 # #6c757d
+
+
+# #5D89B0
+# #BADFFF
+# #9FD1FD
+# #B0894C
+# #FCD89F
+
+# #1B76B3
+# #59BDFF
+# #40B3FF
+# #B36D09
+# #FFB040
+
+# #225C80
+# #78CBFF
+# #4B9BCC
+# #805316
+# #CC964B
