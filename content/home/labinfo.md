@@ -9,8 +9,8 @@ weight = 1  # Order that this section will appear.
 
 {{< figure library="true" src="menu-logo.png" >}}
 
-<span style="color:#285F75"><font size="20"><b>Tonkin </b>Lab</font></span>
+<!-- <span style="color:#285F75"><font size="20"><b>Tonkin </b>Lab</font></span> -->
 
-<span style="color:#C28542"><font size="12">Population & Community Ecology</font></span>
+<!-- <span style="color:#C28542"><font size="12">Population & Community Ecology</font></span> -->
 
 

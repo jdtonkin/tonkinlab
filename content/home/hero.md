@@ -48,7 +48,8 @@ title = "Academic"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+      <p style="text-align:center;">The Best Way to Create the Website You Want from Markdown</p>
+
 
 Build **Anything** with Widgets
 
