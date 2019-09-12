@@ -48,9 +48,9 @@ hero_media = "menu-logo.png"
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<span style="color:#285F75">Tonkin Lab</span>.
+<span style="color:#285F75"><font size="6"><b>Tonkin Lab</b></font></span>
 
-<span style="color:#C28542">Population & Community Ecology</span>.
+<span style="color:#C28542"><font size="4">Population & Community Ecology</font></span>
 
 
 # <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
