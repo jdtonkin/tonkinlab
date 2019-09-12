@@ -1,11 +1,11 @@
 +++
-# Lab info using Hero widget.
-widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Lab info using blank widget.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Tonkin Lab<br>Population & Community Ecology"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "menu-logo.png"
