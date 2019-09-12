@@ -10,7 +10,7 @@ primary = "#285F75"
 # Menu
 menu_primary = "#fff"
 menu_text = "#285F75"
-menu_text_active = "#55A3C2"
+menu_text_active = "#C28542"
 menu_title = "#fff"
 
 # Home sections
@@ -84,8 +84,13 @@ home_section_even = "rgb(247, 247, 247)"
 # #BA6816
 # #BA7B3C
 
+
+
+## Current one in use
 # #2F98C2
 # #55A3C2
 # #285F75
 # #C2731B
 # #C28542
+
+# #d5aa7c
