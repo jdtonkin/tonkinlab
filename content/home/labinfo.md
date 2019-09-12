@@ -17,12 +17,12 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = ""
+  content = ""
+  align = ""
 
-  overlay_color = "#C28542"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_color = "#fff"  # An HTML color value.
+  overlay_img = "menu-logo.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 +++
