@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = <img style="position: absolute;" src="/images/lab-emblem-sub-grey-sub.png" alt="peace dove" />
+title = ""
 subtitle = ""
 
 [design]
@@ -15,7 +15,7 @@ subtitle = ""
 +++
 
 
-<!-- {{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}} -->
+{{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
 
 
 
