@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = ""
+title = {{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
 subtitle = ""
 
 [design]
@@ -14,17 +14,16 @@ subtitle = ""
   
 +++
 
-{{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
 
 
 
-We...
 
-Tackle fundamental questions in population & community ecology, including...
+
+We tackle fundamental questions in <span style="color:#C28542">population & community ecology</span>, including...
 
 ... how populations and communities vary in space & and time. 
 
-Apply this knowledge to real-world problems to find... 
+We apply this knowledge to real-world problems to find... 
 
 ... solutions to the global biodiversity crisis. 
 
