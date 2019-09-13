@@ -22,7 +22,7 @@ subtitle = ""
   <div class="row">
 <div class="col-12 col-lg-4">
 
-{{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
+{{< figure library="true" src="logo-sub-green-grey.png" >}}
 
 </div>
 
@@ -31,7 +31,11 @@ subtitle = ""
 
 We tackle fundamental questions in ecology, including...
 <br>
-... how <span style="color:#C28542">populations and communities</span> vary in space & and time. 
+... how <span style="color:#C28542">populations and communities</span> vary in space & time
+<br>
+... how they remain the same
+<br>
+... how the recover. 
 <br>
 <br>
 We apply this knowledge to real-world problems to find... 
