@@ -10,7 +10,7 @@ weight = 1  # Order that this section will appear.
  css_style = "centre"
  
  # CSS class.
- css_class = ""
+ css_class = "centre"
 +++
 
 {{< figure library="true" src="menu-logo.png" >}}
