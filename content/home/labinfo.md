@@ -7,9 +7,14 @@ weight = 1  # Order that this section will appear.
 
 title = ""
 subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+  
 +++
 
-<center>{{< figure library="true" src="menu-logo.png" >}}</center>
+{{< figure library="true" src="menu-logo.png" >}}
 
 
 <!-- <span style="color:#285F75"><font size="20"><b>Tonkin </b>Lab</font></span> -->
