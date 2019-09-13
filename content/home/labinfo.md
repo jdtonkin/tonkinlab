@@ -10,11 +10,23 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
   
 +++
 
-{{< figure library="true" src="menu-logo.png" >}}
+{{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
+
+
+
+We...
+
+Tackle fundamental questions in population & community ecology, including...
+
+... how populations and communities vary in space & and time. 
+
+Apply this knowledge to real-world problems to find... 
+
+... solutions to the global biodiversity crisis. 
 
 
 <!-- <span style="color:#285F75"><font size="20"><b>Tonkin </b>Lab</font></span> -->
