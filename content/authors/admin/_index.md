@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tonkin Lab
+name: Jonathan Tonkin
 
 # Username (this should match the folder name)
 authors:
