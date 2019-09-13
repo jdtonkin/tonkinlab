@@ -27,7 +27,7 @@ subtitle = ""
 </div>
 
 
-<div class="col-12 col-lg-8" style="padding:20px;"> 
+<div class="col-12 col-lg-8" style="padding:50px;"> 
 
 We tackle fundamental questions in <span style="color:#C28542">population & community ecology</span>, including...
 <br>
