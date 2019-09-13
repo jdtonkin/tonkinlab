@@ -12,6 +12,10 @@ subtitle = ""
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "20px", "20px", "20px"]
+  
 +++
 
 <div class="container">
@@ -26,11 +30,11 @@ subtitle = ""
 <div class="col-12 col-lg-8">
 
 We tackle fundamental questions in <span style="color:#C28542">population & community ecology</span>, including...
-
+<br>
 ... how populations and communities vary in space & and time. 
-
+<br>
 We apply this knowledge to real-world problems to find... 
-
+<br>
 ... solutions to the global biodiversity crisis. 
 
 </div>
