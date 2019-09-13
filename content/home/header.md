@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -47,6 +47,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<p style="text-align:center"><font size="30">How do ecological populations and communities vary in space and time?</font></p>
+<br>
+<br>
+<p style="text-align:center"><font size="20">How do ecological populations and communities vary in space and time?</font></p>
+<br>
+<br>
 
 
