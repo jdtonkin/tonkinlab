@@ -33,9 +33,11 @@ We tackle fundamental questions in <span style="color:#C28542">population & comm
 <br>
 ... how populations and communities vary in space & and time. 
 <br>
+<br>
 We apply this knowledge to real-world problems to find... 
 <br>
 ... solutions to the global biodiversity crisis. 
+
 
 </div>
 </div>
