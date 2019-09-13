@@ -15,7 +15,12 @@ subtitle = ""
 +++
 
 
+<div class="col-12 col-lg-4 section-heading">
+
 {{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
+
+</div>
+
 
 
 
