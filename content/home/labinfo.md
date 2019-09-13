@@ -33,14 +33,13 @@ We tackle fundamental questions in ecology, including...
 <br>
 ... how <span style="color:#C28542">populations and communities</span> vary in space & time
 <br>
-... how they remain the same
+... how they resist and recover from disturbances
 <br>
-... how the recover. 
+... and what they might look like in a future world. 
 <br>
 <br>
-We apply this knowledge to real-world problems to find... 
-<br>
-... solutions to the global biodiversity crisis. 
+We apply this knowledge to real-world problems to find 
+<span style="color:#C28542">solutions to the global biodiversity crisis</span>. 
 
 
 </div>
