@@ -47,6 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
+<p style="text-align:center">The Best Way to Create the Website You Want from Markdown</p>
+
+
 Welcome to the **personal demo** of Academic. Other demos available include:
 
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
