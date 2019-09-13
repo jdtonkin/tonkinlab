@@ -14,7 +14,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "100px", "20px", "100px"]
+  padding = ["20px", "20px", "20px", "20px"]
   
 +++
 
@@ -27,7 +27,7 @@ subtitle = ""
 </div>
 
 
-<div class="col-12 col-lg-8">
+<div class="col-12 col-lg-8" style="margin:100px;padding:0px;">
 
 We tackle fundamental questions in <span style="color:#C28542">population & community ecology</span>, including...
 <br>
