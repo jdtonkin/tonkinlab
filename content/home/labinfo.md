@@ -29,9 +29,9 @@ subtitle = ""
 
 <div class="col-12 col-lg-8" style="padding:50px;"> 
 
-We tackle fundamental questions in <span style="color:#C28542">population & community ecology</span>, including...
+We tackle fundamental questions in ecology, including...
 <br>
-... how populations and communities vary in space & and time. 
+... how <span style="color:#C28542">populations and communities</span> vary in space & and time. 
 <br>
 <br>
 We apply this knowledge to real-world problems to find... 
