@@ -35,7 +35,7 @@ We tackle fundamental questions in ecology, including...
 <br>
 ... how they resist and recover from disturbances
 <br>
-... and what they might look like in a future world. 
+... and how they might look in a future world. 
 <br>
 <br>
 We apply this knowledge to real-world problems to find 
