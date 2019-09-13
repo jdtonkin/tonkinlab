@@ -50,7 +50,11 @@ subtitle = ""
 <br>
 <br>
 <br>
+<br>
+<br>
 <p style="text-align:center"><font size="15">How do ecological populations and communities vary in space and time?</font></p>
+<br>
+<br>
 <br>
 <br>
 <br>
