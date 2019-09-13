@@ -14,7 +14,8 @@ subtitle = ""
 
 +++
 
-
+<div class="container">
+  <div class="row">
 <div class="col-12 col-lg-4">
 
 {{< figure library="true" src="lab-emblem-sub-grey-sub.png" >}}
@@ -32,6 +33,8 @@ We apply this knowledge to real-world problems to find...
 
 ... solutions to the global biodiversity crisis. 
 
+</div>
+</div>
 </div>
 
 
