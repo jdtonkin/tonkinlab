@@ -38,7 +38,7 @@
 
 
 
-{{ .Content }} 
+ 
 {{ partial "page_edit" . }} {{ partial "tags" . }} {{ if ne .Type "page" }} {{ partial "page_author" . }} {{ $related := site.RegularPages.Related . | first 5 }} {{ with $related }}
 
 {{ i18n "related" }}
