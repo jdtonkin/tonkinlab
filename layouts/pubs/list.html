@@ -1,12 +1,19 @@
 {{ define "main" }}
 
 
-{{ partial "page_header.html" . }}
 
 
 <!-- <section class="intro"> -->
 <!-- {{ .Content }} -->
 <!-- </section> -->
+
+<div class="universal-wrapper pt-3">
+
+  {{ partial "page_header.html" . }}
+  
+  {{ .Content }}
+
+</div>
 
 {{ $publications := .Site.Data.pubs }}
 
