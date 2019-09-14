@@ -31,7 +31,10 @@
    {{ range $pub := $publications }}
       {{ if eq $pub.id $id }}
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
-{{ $year }}
+
+<section class={{ $year }}>
+  {{ .Content }}
+</section>
          {{ partial "paper.html" $pub }}
       {{ end }}
    {{ end }}
