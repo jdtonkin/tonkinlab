@@ -1,4 +1,4 @@
 ---
-title: Pubs
+title: "Pubs"
 ---
 
