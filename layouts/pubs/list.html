@@ -31,13 +31,14 @@
    {{ range $pub := $publications }}
       {{ if eq $pub.id $id }}
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
+{{ $yearpub := index $year $pub | string}}
 
-<section>
 <h2>
   {{ $year }}
 </h2>
-{{ partial "paper.html" $pub }}
-</section>
+{{ partial "paper.html" $yearpub }}
+
+
       {{ end }}
    {{ end }}
 {{ end }}
