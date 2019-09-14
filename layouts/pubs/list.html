@@ -23,10 +23,7 @@
    {{ $fmonth := printf "%02d" $month }}
    {{ $fday := printf "%02d" $day }}
    {{ $date := print $fyear "-" $fmonth "-" $fday "-" $publication.id | string}}
-{{ $idyear.SetInMap "date" $date $publication.id }}
-<h2>
-  {{ $year }}
-</h2>
+   {{ $idyear.SetInMap "date" $date $publication.id }}
 {{ end }}
 
 
@@ -37,12 +34,15 @@
 
 
 
+<h2>
+  {{ $year }}
+</h2>
 
+      {{ end }}
 
 {{ partial "paper.html" $pub }}
 
 
-      {{ end }}
    {{ end }}
 {{ end }}
 
