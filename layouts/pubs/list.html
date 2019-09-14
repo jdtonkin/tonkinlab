@@ -26,9 +26,6 @@
    {{ $idyear.SetInMap "date" $date $publication.id }}
 {{ end }}
 
-<h2>
-  {{ $year }}
-</h2>
 
 {{ range $DateSort, $id := ($idyear.Get "date") }}
    {{ range $pub := $publications }}
@@ -37,7 +34,9 @@
 
 
 
-
+<h2>
+  {{ $year }}
+</h2>
 
 {{ partial "paper.html" $pub }}
 
