@@ -1,5 +1,5 @@
 +++
 # Pubs
-widget = "publist"
+widget = "pubpage"
 active = true
 +++
