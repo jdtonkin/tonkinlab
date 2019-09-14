@@ -4,14 +4,9 @@
 {{ partial "page_header.html" . }}
 
 
-
-
-{{ .Content }} 
-
-
-<!-- <section class="intro"> -->
-<!-- {{ .Content }} -->
-<!-- </section> -->
+<section class="intro">
+{{ .Content }}
+</section>
 
 {{ $publications := .Site.Data.pubs }}
 
@@ -32,10 +27,25 @@
    {{ range $pub := $publications }}
       {{ if eq $pub.id $id }}
          {{ $year := index $pub.issued "date-parts" 0 0 | string }}
-         <!-- {{ partial "paper.html" $pub }} -->
+         {{ partial "paper.html" $pub }}
       {{ end }}
    {{ end }}
 {{ end }}
 
 {{ end }}
 
+
+
+
+
+{{ .Content }} 
+{{ partial "page_edit" . }} {{ partial "tags" . }} {{ if ne .Type "page" }} {{ partial "page_author" . }} {{ $related := site.RegularPages.Related . | first 5 }} {{ with $related }}
+
+{{ i18n "related" }}
+	•	{{ range . }}
+	•	{{ .Title }}
+	•	{{ end }} 
+{{ end }} {{ end }} {{ if site.Params.section_pager }}
+{{ partial "section_pager" . }} 
+{{ end }} {{ partial "comments" . }} 
+{{- end -}} 
