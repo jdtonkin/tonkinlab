@@ -1,10 +1,15 @@
 {{ define "main" }}
 
 
+{{ partial "page_header.html" . }}
+
+<!-- {{ .Content }} -->
 
 <!-- <section class="intro"> -->
 <!-- {{ .Content }} -->
 <!-- </section> -->
+
+<div class="universal-wrapper pt-3">
 
 
 {{ $publications := .Site.Data.pubs }}
@@ -31,10 +36,7 @@
    {{ end }}
 {{ end }}
 
-{{ partial "page_header.html" . }}
-
-{{ .Content }}
-
+</div>
 
 {{ end }}
 
