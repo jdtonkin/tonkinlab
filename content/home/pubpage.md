@@ -5,4 +5,3 @@ active = true  # Activate this widget? true/false
 weight = 19  # Order that this section will appear.
 +++
 
-<<% pubs %>>
