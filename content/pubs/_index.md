@@ -1,5 +1,4 @@
 ---
 title: Pubs
-type: "default"
 ---
 
