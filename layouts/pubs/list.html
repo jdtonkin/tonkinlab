@@ -33,7 +33,7 @@
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
 
 
-if ($year = $year) {
+{{if ($year = $year) {
 
 <h2>
   {{ $year }}
@@ -49,7 +49,7 @@ if ($year = $year) {
 
 }
 
-
+}}
 
 
       {{ end }}
