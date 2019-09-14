@@ -7,12 +7,6 @@
 
 
 {{ .Content }} 
-{{ partial "page_edit" . }} {{ partial "tags" . }} 
-
- {{ if site.Params.section_pager }}
-{{ partial "section_pager" . }} 
-{{ end }} 
-
 
 
 <!-- <section class="intro"> -->
@@ -38,7 +32,7 @@
    {{ range $pub := $publications }}
       {{ if eq $pub.id $id }}
          {{ $year := index $pub.issued "date-parts" 0 0 | string }}
-         {{ partial "paper.html" $pub }}
+         <!-- {{ partial "paper.html" $pub }} -->
       {{ end }}
    {{ end }}
 {{ end }}
