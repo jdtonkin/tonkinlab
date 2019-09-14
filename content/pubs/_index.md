@@ -1,5 +1,5 @@
 ---
 title: Pubs
-layout: single
+type: "single"
 ---
 
