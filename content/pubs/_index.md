@@ -1,6 +1,5 @@
 ---
 title: "Pubs"
-type: "page"
-layout: "pubpage"
+widget: "pubpage"
 ---
 
