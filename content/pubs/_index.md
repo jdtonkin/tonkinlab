@@ -1,4 +1,5 @@
 ---
 title: Pubs
+layout: single
 ---
 
