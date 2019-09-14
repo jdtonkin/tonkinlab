@@ -32,9 +32,9 @@
       {{ if eq $pub.id $id }}
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
 
-<section class={{ $year }}>
-  {{ .Content }}
-</section>
+<h2>
+  {{ $year }}
+</h2>
          {{ partial "paper.html" $pub }}
       {{ end }}
    {{ end }}
