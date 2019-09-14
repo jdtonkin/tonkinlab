@@ -33,10 +33,23 @@
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
 
 
+if ($year = $year) {
+
 <h2>
-  {{ $year.indexOf($year) }}
+  {{ $year }}
 </h2>
 {{ partial "paper.html" $pub }}
+
+} else {
+
+<h2>
+  {{ $year }}
+</h2>
+{{ partial "paper.html" $pub }}
+
+}
+
+
 
 
       {{ end }}
