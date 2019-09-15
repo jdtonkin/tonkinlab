@@ -6,11 +6,10 @@
    <div class="authors">
      {{ range $author := .author }}
 
-     {{if "Tonkin" == $author.family}}
-      <span class="family"><b>{{ $author.family }}</b></span>,
-      <span class="given"><b>{{ range $names := split $author.given " " }}
+      <span class="family">{{ $author.family }}</span>,
+      <span class="given">{{ range $names := split $author.given " " }}
          {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
-         {{ end }}</b></span>
+         {{ end }}</span>
       {{ end }}
       {{ end }}
       
