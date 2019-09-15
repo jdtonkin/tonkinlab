@@ -11,7 +11,9 @@
       <span class="given"><b>{{ range $names := split $author.given " " }}
          {{ range $comps := split $names "-"}}{{ substr $comps 0 1 }}.{{ end }}
          {{ end }}</b></span>
-         {{ end }}
+      {{ end }}
+      {{ end }}
+      
       </div>
       <div class="metadata">
          <span class="year">
