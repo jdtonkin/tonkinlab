@@ -32,13 +32,18 @@
       {{ if eq $pub.id $id }}
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
 
+
 <h2>
   {{ $year }}
 </h2>
 
+{{ if $year == $year}} 
 
 {{ partial "paper.html" $pub }}
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7bd907d87842d46dc3ac1f8f349412486e8fae9c
 
 
 {{ end }}
