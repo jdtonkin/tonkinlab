@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Ecology Letters*"
-url_pdf: "https://doi.org/10.1111/ele.12866"
+url_pdf: ""
 doi: "10.1111/ele.12866"
 ---
 
