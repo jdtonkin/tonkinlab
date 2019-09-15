@@ -33,15 +33,13 @@
 {{ $year := index $pub.issued "date-parts" 0 0 | string }}
 
 
-<article>
 
 <h2>
   {{ $year }}
 </h2>
 
-{{ partial "paper.html" $pub }}
+{{ partial "paper.html" $year }}
 
-</article>
 
       {{ end }}
    {{ end }}
