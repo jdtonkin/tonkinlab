@@ -6,7 +6,7 @@
    <div class="authors">
      {{ range $author := .author }}
 
-     {{if $author.family == "Tonkin"}}
+     {{if $author.family = "Tonkin"}}
 
       <span class="family"><b>{{ $author.family }}</b></span>,
       <span class="given"><b>{{ range $names := split $author.given " " }}
