@@ -39,7 +39,9 @@ We tackle fundamental questions in ecology, including...
 <br>
 <br>
 We apply this knowledge to real-world problems to find 
-<span style="color:#C28542">solutions to the global biodiversity crisis</span>. 
+<span style="color:#C28542">solutions to the global biodiversity crisis</span>
+<br>
+... and <span style="color:#C28542">prepare ecosystems for an uncertain future</span>.. 
 
 
 </div>
