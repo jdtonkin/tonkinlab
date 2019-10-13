@@ -52,7 +52,7 @@ subtitle = ""
 <br>
 <br>
 <br>
-<p style="text-align:center"><font size="7">Ecology in a changing world.</font></p>
+<p style="text-align:center"><font size="7">Ecology in a changing world</font></p>
 <br>
 <br>
 <br>
