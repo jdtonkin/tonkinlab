@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Recent paper in *Nature*"
-  content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them. <br>"
+  content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them.\n"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -37,7 +37,7 @@ overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
  [[item]] 
    title = ""
-   content = "We argue that we can no longer aim to restore river ecosystems to historical or ‘natural’ states, because often, and increasingly, those states no longer exist. Similarly, models based on past correlations do poorly looking into the future for how species may respond to unprecedented changes."
+   content = "We argue that we can no longer _solely_ aim to restore river ecosystems to historical states, because often, and increasingly, those states no longer exist. Similarly, models based on past correlations do poorly looking into the future for how species may respond to unprecedented changes."
    align = "center"
 
   # overlay_color = # "#C28542"  # An HTML color value.
