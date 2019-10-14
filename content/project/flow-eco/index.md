@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Ecological networks in a changing world"
+title = "Flow-ecology modelling"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Ecological networks summary"
+summary = "Understanding the relationship between river flow regimes and freshwater and riparian biodiversity. Understanding the relationship between river flow regimes and freshwater and riparian biodiversity. Understanding the relationship between river flow regimes and freshwater and riparian biodiversity. Understanding the relationship between river flow regimes and freshwater and riparian biodiversity. Understanding the relationship between river flow regimes and freshwater and riparian biodiversity. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
