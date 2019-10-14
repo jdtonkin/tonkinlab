@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Community ecology
-- Metacommunities
+- Flow-ecology relationships
 - Ecological networks
 - Ecological forecasting
 
