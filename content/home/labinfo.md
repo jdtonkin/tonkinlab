@@ -29,8 +29,6 @@ subtitle = ""
 
 <div class="col-12 col-lg-8" style="padding:50px;"> 
 
-Welcome to the Tonkin Lab at the University of Canterbury in New Zealand. 
-<br>
 
 We tackle fundamental questions in ecology, including...
 <br>
