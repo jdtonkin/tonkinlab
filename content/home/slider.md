@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Recent paper in *Nature*"
-  content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them.\n"
+  content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them.<br><br>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -31,8 +31,8 @@ overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get the paper"
   cta_url = "https://doi.org/10.1038/d41586-019-01877-1"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  cta_icon_pack = "far"
+  cta_icon = "file-alt"
 
 
  [[item]] 
