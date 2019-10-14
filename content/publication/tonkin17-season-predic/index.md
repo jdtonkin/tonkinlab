@@ -9,5 +9,6 @@ featured: true
 publication: "*Ecology*"
 url_pdf: "https://doi.org/10.1002/ecy.1761"
 doi: "10.1002/ecy.1761"
+projects: ['river-biodiversity', 'env-variability']
 ---
 

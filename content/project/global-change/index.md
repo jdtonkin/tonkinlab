@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Ecological networks in a changing world"
+title = "Global change ecology"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Ecological networks summary"
+summary = "Climate change and land-use change effects on biodiversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,4 +44,3 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Test text Test text Test text Test text. 

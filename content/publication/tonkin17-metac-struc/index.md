@@ -9,5 +9,6 @@ featured: false
 publication: "*Journal of Biogeography*"
 url_pdf: "https://doi.org/10.1111/jbi.12895"
 doi: "10.1111/jbi.12895"
+projects: ['river-biodiversity', 'metacommunities']
 ---
 

@@ -9,5 +9,6 @@ featured: false
 publication: "*Ecological Applications*"
 url_pdf: "https://doi.org/10.1002/eap.1528"
 doi: "10.1002/eap.1528"
+projects: ['flow-eco', 'forecasting', 'river-biodiversity']
 ---
 

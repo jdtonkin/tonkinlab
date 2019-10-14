@@ -9,5 +9,6 @@ featured: true
 publication: "*Freshwater Biology*"
 url_pdf: "https://doi.org/10.1111/fwb.13037"
 doi: "10.1111/fwb.13037"
+projects: ['river-biodiversity', 'metacommunities']
 ---
 

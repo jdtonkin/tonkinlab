@@ -9,5 +9,6 @@ featured: true
 publication: "*Nature Ecology and Evolution*"
 url_pdf: "https://doi.org/10.1038/s41559-017-0379-0"
 doi: "10.1038/s41559-017-0379-0"
+projects: ['flow-eco', 'forecasting', 'river-biodiversity', 'networks', 'global-change']
 ---
 
