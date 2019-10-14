@@ -1,9 +1,9 @@
 +++
 # Project title.
-title: "Ecological networks"
+title = "Ecological networks"
 
 # Date this page was created.
-date: 2019-10-14T16:32:42+13:00
+date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "Ecological networks summary"
