@@ -28,6 +28,14 @@ subtitle = ""
 
 **April 2019 » _New paper in Ecosphere._** We have a new paper out in [Ecosphere](https://doi.org/10.1002/ecs2.2681). This is a multi-species demographic model that links native and nonnative species with river flow regimes in the Verde River, Arizona. Projecting the model beyond the survey data predicted a shift from a native dominant to a nonnative dominant community, which was linked to increasing drought frequency. Thanks very much for leading this effort, Jane!
 
+**Dec 2018 » _Paper accepted in Sci. Tot. Env_.** We just had a paper accepted led by Peter Haase, Francesca Pilotto and Fengqing Li. This has been a long road, so it's nice to see it through review. The title gives the central result: Moderate warming over the past 25 years has already reorganized stream invertebrate communities. 
+
+**Dec 2018 » _Paper accepted in River Research and Applications_.** We just had a paper accepted on: The three Rs of river ecosystem resilience: Resources, Recruitment and Refugia. Thanks to Kris Van Looy for leading this. This originated at a workshop in Berlin back in 2015, so it's nice to see it come through in the end. 
+
+**Dec 2018 » _Awarded the inaugural NZFSS Early Career Researcher Award_.** Last week, Jono received the inaugural Early Career Researcher Award by the New Zealand Freshwater Sciences Society. Jono is very grateful to both the Society for giving him the award and the many colleagues that have helped him to get where he is today. It meant he got to share his past few years of research with the society by way of a keynote address. 
+
+**Oct 2018 » _Awarded a Rutherford Discovery Fellowship_.** Jono is delighted and honoured to receive a Rutherford Discovery Fellowship from the Royal Society of New Zealand Te Apārangi. The title of his 5-year programme is "Rethinking ecological networks in changing environments". The fellowship will allow him to build his research programme here in New Zealand after several years overseas, and provide the time to tackle major environmental challenges in a way that is not necessarily possible over shorter timescales. News releases [here](https://royalsociety.org.nz/news/2018-rutherford-discovery-fellowships-to-accelerate-research-careers-announced/) and [here](https://www.canterbury.ac.nz/news/2018/uc-ecologist-awarded-800000-to-tackle-major-environmental-challenges.html). 
+
 </div>
 &nbsp;
 
