@@ -46,7 +46,7 @@ overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
  [[item]] 
    title = ""
-   content = We call for rivers to be managed adaptively and for researchers to develop forecasting tools that move beyond simply monitoring the state of ecosystems to establishing the biological mechanisms that underpin their survival."
+   content = "We call for rivers to be managed adaptively and for researchers to develop forecasting tools that move beyond simply monitoring the state of ecosystems to establishing the biological mechanisms that underpin their survival."
    align = "center"
 
   # overlay_color = # "#C28542"  # An HTML color value.
