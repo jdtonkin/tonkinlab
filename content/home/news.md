@@ -18,7 +18,7 @@ subtitle = ""
   
 +++
 
-<div style="overflow: auto; height:500pt; width:100%; padding-right: 50px;">
+<div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
 **Oct 2019 » _Permanent position_.** Jono received the news that he has a permanent position at the University of Canterbury in the fabulous School of Biological Sciences. He's delighted to get to set down roots and build a flourishing research lab in his home country of New Zealand. 
 
