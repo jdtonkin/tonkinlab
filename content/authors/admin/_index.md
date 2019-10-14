@@ -15,19 +15,28 @@ role: Senior Lecturer & Rutherford Discovery Fellow
 # Organizations/Affiliations
 organizations:
 - name: University of Canterbury
-  url: ""
+  url: "https://www.canterbury.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Ecology
+- Community ecology
+- Metacommunities
+- Ecological networks
+- Ecological forecasting
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: PhD in Ecology
+    institution: Massey University, NZ
+    year: 2012
+  - course: BSc (Hons) in Ecology
+    institution: Massey University, NZ
+    year: 2006
+  - course: BSc in Ecology
+    institution: Massey University, NZ
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -36,13 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jonathan.tonkin@canterbury.ac.nz  # For a direct email link, use "mailto:test@example.org". OR  #contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jdtonkin
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=Mtn0TIwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tonkinlab
@@ -62,4 +71,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
