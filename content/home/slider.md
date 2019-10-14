@@ -17,7 +17,7 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Recent paper in *Nature*"
-  content = "We argue that to prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them."
+  content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,12 +35,13 @@ overlay_filter = 0.4  # Darken the image. Value in range 0-1.
   # cta_icon = "graduation-cap"
 
 
- # [[item]] 
- #  title = ""
- #  content = "I am right aligned :smile:"
- #  align = "center"
+ [[item]] 
+   title = ""
+   content = "We call for a change in the way we manage and model river ecosystems, arguing that we can no longer aim to restore river ecosystems to historical or ‘natural’ states, because often, and increasingly, those states no longer exist. We suggest that models that are based on past correlations do poorly looking into the future for how species may respond to unprecedented changes. We call for rivers to be managed adaptively and for researchers to develop forecasting tools that move beyond simply monitoring the state of ecosystems to establishing the biological mechanisms that underpin their survival."
+   align = "center"
 
   # overlay_color = # "#C28542"  # An HTML color value.
-  # overlay_img = "stream-wide.jpg"  # Image path relative to your `static/img/` folder.
-  # overlay_filter = 0.3  # Darken the image. Value in range 0-1.
+  overlay_img = "3gorges-wide.jpg"  # Image path relative to your `static/img/` folder.  
+  overlay_filter = 0.4  # Darken the image. Value in range 0-1.
+
 +++
