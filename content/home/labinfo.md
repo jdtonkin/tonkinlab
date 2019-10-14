@@ -39,7 +39,9 @@ We tackle fundamental questions in ecology, including...
 <br>
 <br>
 We apply this knowledge to real-world problems to find solutions to the global biodiversity crisis and to prepare ecosystems for an uncertain future. 
-
+<br>
+<br>
+We are particularly enamoured with <span style="color:#C28542">freshwater ecosystems</span>, but our research spans disciplinary boundaries. 
 
 </div>
 </div>
