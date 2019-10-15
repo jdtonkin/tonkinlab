@@ -86,6 +86,7 @@ contact_links = [
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   {icon = "building", icon_pack = "fas", name = "Courier address", link = "https://www.canterbury.ac.nz/find-uc-staff/directorysearch.aspx"},
+  {icon = "door-open", icon_pack = "fas", name = "Rm 235, Julius von Haast"},
   ]
 
 # Display a map.
@@ -103,7 +104,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 2
 map_api_key = ""
 latitude = "-43.52288611"
 longitude = "172.58416667"
