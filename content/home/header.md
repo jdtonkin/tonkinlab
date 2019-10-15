@@ -62,7 +62,7 @@ subtitle = ""
 <div style="text-align: center">
 <font size="5"></font><br>
 <a href="/opportunities">
-<button style="background-color:#285F75; border-radius:4px; font-size:1.5em; padding:8px 20px;">
+<button style="background-color:#285F75; font-size:1.5em; padding:8px 20px;">
 We have open positions <br> Check them out
 </button>
 </a>
