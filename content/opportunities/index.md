@@ -40,6 +40,11 @@ This is a <b>Red Alert!</b> Take cover.
 
 
 
+{{% alert jono %}} 
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
+
+
 
 
 
