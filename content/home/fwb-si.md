@@ -20,14 +20,14 @@ subtitle = ""
 
 <div class="container">
   <div class="row">
-<div class="col-12 col-lg-4" style="padding:50px;">
+<div class="col-12 col-lg-4" style="padding:40px;">
 
 {{< figure library="true" src="2018-FWB-SI.png" >}}
 
 </div>
 
 
-<div class="col-12 col-lg-8" style="padding:50px;"> 
+<div class="col-12 col-lg-8" style="padding:40px;"> 
 
 Jono recently edited a special issue in <i>Freshwater Biology</i> with <a href="https://www.altermattlab.ch" target="_blank">Florian Altermatt</a> and <a href="https://www.largescaleecologylab.net/" target="_blank">Jani Heino</a> on metacommunities in river networks. You can find the special issue <a href="https://onlinelibrary.wiley.com/toc/13652427/63/1" target="_blank">here</a>, and the editorial <a href="/content/publication/tonkin18-metac-river/tonkin18-metac-river.pdf" target="_blank">here</a>.  
 <br><br>
