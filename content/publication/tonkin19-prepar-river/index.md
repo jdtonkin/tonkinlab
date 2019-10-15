@@ -24,5 +24,10 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['flow-eco', 'forecasting', 'river-biodiversity', 'restoration', 'global-change']
 
+links:
+  - icon_pack: fab
+    icon: twitter 
+    url: url_pdf
+
 ---
 
