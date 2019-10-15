@@ -54,7 +54,14 @@ social:
   link: https://scholar.google.com/citations?user=Mtn0TIwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/tonkinlab
+  link: https://github.com/jdtonkin
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6053-291X
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jonathan_Tonkin
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

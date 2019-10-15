@@ -84,9 +84,9 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:jdtonkin?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "github", icon_pack = "ai", name = "Tonkin Lab", link = "https://github.com/tonkinlab"},
   {icon = "building", icon_pack = "fas", name = "Courier address", link = "https://www.canterbury.ac.nz/find-uc-staff/directorysearch.aspx"},
-  {icon = "door-open", icon_pack = "fas", name = "Rm 235, Julius von Haast"},
+  {icon = "door-open", icon_pack = "fas", name = "Rm 235, Julius von Haast (School of Biological Sciences)", link = "https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/"},
   ]
 
 # Display a map.
@@ -104,10 +104,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 3
-map_api_key = ""
-latitude = "-43.52288611"
-longitude = "172.58416667"
+map = 1
+map_api_key = "AIzaSyDq3i-1M3yWYRk7VqaSnUuvSbAVhpeNOoc"
+latitude = "-43.522786"
+longitude = "172.583638"
 zoom = 15
 
 ############################
