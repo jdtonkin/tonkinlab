@@ -34,8 +34,8 @@
   weight = 60
 
 [[main]]
-  name = "Positions"
-  url = "positions"
+  name = "Opportunities"
+  url = "opportunities"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.

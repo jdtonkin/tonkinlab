@@ -57,10 +57,13 @@ subtitle = ""
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
 
+{{% alert warning %}}
+We have open positions.  
+[Check them out](/opportunities)
+{{% /alert %}}
 
 <!-- <p style="text-align:center"><font size="6">How do ecological populations and communities vary in space and time?</font></p> -->
 <!-- <p style="text-align:center"><font size="6">... and how can we prepare them for an uncertain future?</font></p> -->
