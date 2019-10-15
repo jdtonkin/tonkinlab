@@ -60,10 +60,14 @@ subtitle = ""
 <!-- <br> -->
 <!-- <br> -->
 
-{{% alert  %}}
-We have open positions.  
-[Check them out](/opportunities)
-{{% /alert %}}
+<div style="text-align: center">
+We have open positions.<br>
+<a href="/opportunities">
+<button style="background-color:#a4d61e; margin-top:6px; margin-bottom:16px; border-radius:4px; font-size:1.6em; padding:8px 20px; float:none !important; text-shadow:0 1px 1px rgba(0,0,0,0.2)">
+Check them out
+</button>
+</a>
+</div>
 
 <!-- <p style="text-align:center"><font size="6">How do ecological populations and communities vary in space and time?</font></p> -->
 <!-- <p style="text-align:center"><font size="6">... and how can we prepare them for an uncertain future?</font></p> -->
