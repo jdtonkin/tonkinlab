@@ -60,9 +60,8 @@ subtitle = ""
 <!-- <br> -->
 
 <div style="text-align: center">
-<font size="5"></font><br>
 <a href="/opportunities">
-<button style="background-color:#285F75; font-size:1.5em; padding:8px 20px;">
+<button style="background-color:#285F75; border-radius:5px; padding:8px 20px;">
 <i class="fas fa-graduation-cap"></i> We have open positions <br> 
 <i class="fas fa-link"></i> Check them out
 </button>
