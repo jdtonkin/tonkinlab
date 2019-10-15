@@ -84,7 +84,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:jdtonkin?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "github", icon_pack = "ai", name = "Tonkin Lab", link = "https://github.com/tonkinlab"},
+  {icon = "github", icon_pack = "fab", name = "tonkinlab", link = "https://github.com/tonkinlab"},
   {icon = "building", icon_pack = "fas", name = "Courier address", link = "https://www.canterbury.ac.nz/find-uc-staff/directorysearch.aspx"},
   {icon = "door-open", icon_pack = "fas", name = "Rm 235, Julius von Haast (School of Biological Sciences)", link = "https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/"},
   ]
