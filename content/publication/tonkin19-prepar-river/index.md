@@ -22,7 +22,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['flow-eco', 'forecasting', 'river-biodiversity', 'restoration', 'global-change']
+research: ['flow-eco', 'forecasting', 'river-biodiversity', 'restoration', 'global-change']
 
 url_project: ''
 ---
