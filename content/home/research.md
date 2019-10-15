@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Our Research"
 subtitle = "We are, broadly speaking, community ecologists. But we ask a broad range of questions to understand how populations and communities vary in space and time, including how landscape or river network structure and dispersal interact to affect the organisation of biodiversity, how global change will alter the structure of ecological networks, how river and riparian species respond to changes in flow regimes (cycles of floods and drought), and how best to forecast the distribution of species in changing landscapes."
