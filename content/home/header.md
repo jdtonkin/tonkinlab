@@ -61,10 +61,8 @@ subtitle = ""
 <div style="text-align: center">
 <a href="/opportunities">
 <button style="background-color:white; border-radius:5px; padding:8px 20px;">
-<font size=5.2>
 <font color="#C28542">
-<i class="fas fa-exclamation-circle"></i></font> &nbsp; <font color="#285F75">We have open positions! Click here. 
-</font>
+<i class="fas fa-exclamation-circle"></i> &nbsp; We have open positions! Click here. 
 </font>
 </button>
 </a>
