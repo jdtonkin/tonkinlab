@@ -69,7 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jonathan.tonkin@canterbury.ac.nz"
 phone = "+64 336 90413"
-address = "Rm 235, School of Biological Sciences, University of Canterbury, Christchurch, NZ"
+address = "School of Biological Sciences, University of Canterbury, Private Bag 4800, Christchurch 8140, New Zealand"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -85,6 +85,7 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "building", icon_pack = "fas", name = "Courier address", link = "https://www.canterbury.ac.nz/find-uc-staff/directorysearch.aspx"},
   ]
 
 # Display a map.
@@ -102,7 +103,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 1
 map_api_key = ""
 latitude = "-43.52288611"
 longitude = "172.58416667"
