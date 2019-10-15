@@ -20,7 +20,7 @@ subtitle = ""
 
 <div class="container">
   <div class="row">
-<div class="col-12 col-lg-4">
+<div class="col-12 col-lg-4 style="padding:50px;">
 
 {{< figure library="true" src="2018-FWB-SI.png" >}}
 
