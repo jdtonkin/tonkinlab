@@ -20,11 +20,6 @@ subtitle = ""
 
 <div class="container">
   <div class="row">
-<div class="col-12 col-lg-4">
-
-{{< figure library="true" src="logo-sub-green-grey.png" >}}
-
-</div>
 
 
 <div class="col-12 col-lg-8" style="padding:50px;"> 
@@ -45,6 +40,13 @@ We apply this knowledge to real-world problems to find solutions to the global b
 We are particularly enamoured with <span style="color:#C28542">freshwater ecosystems</span>, but our research spans disciplinary and ecological boundaries. 
 
 </div>
+
+<div class="col-12 col-lg-4">
+
+{{< figure library="true" src="logo-sub-green-grey.png" >}}
+
+</div>
+
 </div>
 </div>
 
