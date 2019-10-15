@@ -55,20 +55,20 @@ subtitle = ""
 <p style="text-align:center"><font size="7">Ecology in a changing world</font></p>
 <p style="text-align:center"><font size="5">Welcome to the Tonkin Lab at the University of Canterbury in New Zealand</font></p>
 <br>
-<br>
 <!-- <br> -->
 <!-- <br> -->
 
-<div style="text-align: center">
+<div style="text-align: center; text-color:#C28542; ">
 <font size="5.5">
 <a href="/opportunities">
-<button style="background-color:white; font-color:#C28542; border-radius:5px; padding:8px 20px;">
+<button style="background-color:white; border-radius:5px; padding:8px 20px;">
 <i class="fas fa-exclamation-circle"></i> &nbsp; We have open positions! Click to see. 
 </button>
 </a>
 </font>
 </div>
 
+<br>
 <br>
 
 <!-- <p style="text-align:center"><font size="6">How do ecological populations and communities vary in space and time?</font></p> -->
