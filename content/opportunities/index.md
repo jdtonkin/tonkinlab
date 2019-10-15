@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-I am always on the lookout for motivated students and postdocs with a passion for ecology and freshwater ecosystems. If you’ve had a look around our website and you’re interested in working with us, please do get in touch. Likewise, if you have an idea for a project, [get in touch](mailto:jonathan.tonkin@canterbury.ac.nz) and include a brief introduction of your experience, research interests and goals. 
+We are always on the lookout for motivated students and postdocs to join the group. If you’ve had a look around our website and you’re interested in working with us, please do get in touch. Likewise, if you have an idea for a project, [get in touch](mailto:jonathan.tonkin@canterbury.ac.nz) and include a brief introduction of your experience, research interests and goals. 
 
 ## Open opportunities
 
@@ -30,3 +30,23 @@ Text here
 
 ### Graduate students
 Text here
+
+
+::: alert red
+This is a **Red Alert!** Take cover.
+:::
+
+
+
+
+
+
+
+
+
+
+Postdoctoral fellows:
+We currently have no funded openings for postdoctoral fellows but are always open to intriguing possibilities. If you are interested in beginning discussions of options for pursuing external funding (e.g., Marie Curie Outgoing Fellowships, NSERC Postdoctoral Fellowships, or Beques BP-A), please email Daniel with a list of research interests and a copy of your CV.
+
+Graduate students:
+We currently have no funded openings for graduate students in the group. The University of Canterbury, however, offers doctoral fellowships twice a year whose deadlines generally fall in mid-May and mid-October. If you are interested in applying for one of these scholarships, please email Daniel well in advance to express your interest and discuss the application process.
