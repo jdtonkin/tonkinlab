@@ -53,7 +53,7 @@ subtitle = ""
 <br>
 <br>
 <p style="text-align:center"><font size="7">Ecology in a changing world</font></p>
-<p style="text-align:center"><font size="4">Welcome to the Tonkin Lab at the University of Canterbury in New Zealand</font></p>
+<p style="text-align:center"><font size="5">Welcome to the Tonkin Lab at the University of Canterbury in New Zealand</font></p>
 <br>
 <br>
 <br>
