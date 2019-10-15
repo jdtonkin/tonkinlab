@@ -32,10 +32,9 @@ Text here
 Text here
 
 
-::: alert red
-This is a **Red Alert!** Take cover.
-:::
-
+<div class="alert red">
+This is a <b>Red Alert!</b> Take cover. 
+</div>
 
 
 
