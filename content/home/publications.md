@@ -65,7 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- url_pdf = [{icon_pack = "fas", icon="file-alt"}]
-
 +++
 
