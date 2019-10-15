@@ -12,4 +12,9 @@ view: 4
 header:
   caption: ""
   image: ""
+
+links:
+  - icon_pack: fab
+    icon: twitter 
+    url: url_pdf
 ---
