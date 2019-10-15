@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Ecological networks in a changing world"
+title = "Drivers of freshwater biodiversity"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Ecological networks summary"
+summary = "We are passionate about freshwaters, particularly rivers, and seek to understand the biodiversity of river networks. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,4 +44,3 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Test text Test text Test text Test text. 

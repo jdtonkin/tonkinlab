@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Ecological networks in a changing world"
+title = "Population modelling"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Towards prediction of ecological networks; understanding the context dependency of interactions in networks."
+summary = "We build population models (e.g. matrix projections) that link populations with environmental variability"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -43,3 +43,4 @@ url_video = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+

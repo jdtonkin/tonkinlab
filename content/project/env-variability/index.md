@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Ecological networks in a changing world"
+title = "Ecological time series"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Ecological networks summary"
+summary = "The role of temporal environmental variability (e.g. seasonality and predictability) in shaping population and community dynamics."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,4 +44,3 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Test text Test text Test text Test text. 
