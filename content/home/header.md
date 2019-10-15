@@ -60,7 +60,7 @@ subtitle = ""
 <!-- <br> -->
 <!-- <br> -->
 
-{{% alert warning %}}
+{{% alert-variant note %}}
 We have open positions.  
 [Check them out](/opportunities)
 {{% /alert %}}
