@@ -61,10 +61,6 @@ subtitle = ""
 <br>
 <br>
 
-<!-- {{% alert note %}} -->
-<!-- Here's a tip or note... -->
-<!-- {{% /alert %}} -->
-
 
 <!-- <p style="text-align:center"><font size="6">How do ecological populations and communities vary in space and time?</font></p> -->
 <!-- <p style="text-align:center"><font size="6">... and how can we prepare them for an uncertain future?</font></p> -->
