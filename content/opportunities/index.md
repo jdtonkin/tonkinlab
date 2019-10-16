@@ -50,4 +50,4 @@ There are not many places in the world, where you can go for a surf in the morni
 
 
 
-![](/static/img/taylor-waimak.png)
+![](/img/taylor-waimak.png)
