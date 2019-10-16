@@ -35,15 +35,6 @@ Text here
 
 
 
-
-
-{{% alert %}} 
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
 <div style="text-align: center">
 <a href="/opportunities">
 <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
@@ -53,15 +44,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 </button>
 </a>
 </div>
-=======
-{{% highlight %}}
-highlight highlight
-{{% /highlight %}}
-=======
->>>>>>> parent of cad1883... try hl
 
-
->>>>>>> parent of e1e130a... cleanup old layouts
 
 
 Postdoctoral fellows:
@@ -91,6 +74,4 @@ Some information on potential scholarships in biology can be found here, and it 
 
 ## Christchurch, New Zealand
 
-There are not many places in the world, where you can go for a surf in the morning and follow it up for a snowboard in the afternoon. Christchurch is one of these places. If you're into the outdoors, like me, it's a bit of a wonderland. In addition to surf and snowboarding/skiing, there is world class hiking, fishing, bouldering etc. all within an hour or twos drive. 
-
-More information about Christchurch can be found here.
+There are not many places in the world, where you can go for a surf in the morning and follow it up for a snowboard in the afternoon. Christchurch is one of these places. If you're into the outdoors, like me, it's a bit of a wonderland. In addition to surf and snowboarding/skiing, there is world class hiking, fishing, bouldering etc. all within an hour or two drive. Thus, amazing field sites are equally accessible, including University of Canterbury's Cass Field Station and a diverse range of montane landscapes and riverscapes. 
