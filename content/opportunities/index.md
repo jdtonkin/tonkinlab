@@ -35,8 +35,8 @@ We don't currently have any funded opportunities for postdoctoral researchers, b
 ## Graduate students
 
 <font color="#C28542">
-<i class="fas fa-exclamation-circle"></i> &nbsp; Check back soon. I will be advertising 1-2 PhD projects in the next couple of weeks.  
-</font>
+<i class="fas fa-exclamation-circle"></i> &nbsp; </font> Check back soon. I will be advertising 1-2 PhD projects in the next couple of weeks.  
+
 
 We have a range of possible postgraduate degrees available, including BSc Hons, MSc and PhD (details [here](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/)). Motivated individuals wishing to join our group as a PhD, Masters or Honours student are encouraged to email me, including a CV and a description of background and research interests. The University of Canterbury offers doctoral scholarships twice a year -- deadlines generally fall in mid-May and mid-October (details can be found [here](https://www.canterbury.ac.nz/scholarshipsearch/ScholarshipDetails.aspx?ScholarshipID=6935.127)). If you are interested in applying, please email Jono well in advance so that we can discuss fit, potential projects, and the application process. There are also a number of other scholarships available that are detailed [here](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/), but I'd also encourage you to explore funding opportunities in your own country. Finally, take a look around our department [website](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/), we have a number of great ecologists in the department that could act as co-supervisors. 
 
