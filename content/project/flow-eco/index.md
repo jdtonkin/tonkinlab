@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = ""
+  # caption = "Riparian ecological networks under different flow regimes futures (Tonkin et. al, 2018; Nature Eco. Evo.)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

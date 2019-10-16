@@ -29,7 +29,7 @@ We are always on the lookout for motivated students and postdocs to join the gro
 </div>
 
 
-## Postdoctoral positions
+## Postdoctoral researchers
 We don't currently have any funded opportunities for postdoctoral researchers, but very much welcome inquiries. If you're interested in joining the group, please do get in touch with Jono with an outline of your proposed research and a CV. Funding for postdocs in New Zealand is pretty limited, so it may be best to seek funding from your home country. Jono can help put together a proposal for external funding. Any positions that do come available will be clearly advertised.  
 
 ## Graduate students
@@ -41,7 +41,7 @@ We don't currently have any funded opportunities for postdoctoral researchers, b
 We have a range of possible postgraduate degrees available, including BSc Hons, MSc and PhD (details [here](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/)). Motivated individuals wishing to join our group as a PhD, Masters or Honours student are encouraged to email me, including a CV and a description of background and research interests. The University of Canterbury offers doctoral scholarships twice a year whose deadlines generally fall in mid-May and mid-October (details can be found [here](https://www.canterbury.ac.nz/scholarshipsearch/ScholarshipDetails.aspx?ScholarshipID=6935.127)). If you are interested in applying, please email Jono well in advance so that we can discuss fit, potential projects, and the application process. There are also a number of other scholarships available that are detailed [here](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/), but I'd also encourage you to explore funding opportunities in your own country. Finally, take a look around our department [website](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/), we have a number of great ecologists in the department that could act as co-supervisors. 
 
 
-## Undergraduate Students
+## Undergraduate students
 If you are a current University of Canterbury undergraduate student interested in gaining research experience or conducting a summer research project, please get in touch to discuss opportunities. 
 
 ## Christchurch, New Zealand
