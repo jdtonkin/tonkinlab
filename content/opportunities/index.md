@@ -34,12 +34,11 @@ Text here
 
 
 
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> &nbsp; <i class="fas fa-exclamation-circle"></i> 
-&nbsp;
+
 <div style="text-align: left">
-<button style="background-color:285F75; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
-<font color="#white">
-Position 1 
+<button style="background-color:#285F75; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
+<font color="white">
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> 
 </font>
 </button>
 </div>
