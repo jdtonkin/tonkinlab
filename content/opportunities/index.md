@@ -42,6 +42,7 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 
 
+<<<<<<< HEAD
 <div style="text-align: center">
 <a href="/opportunities">
 <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
@@ -51,6 +52,13 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 </button>
 </a>
 </div>
+=======
+{{% highlight %}}
+highlight highlight
+{{% /highlight %}}
+
+
+>>>>>>> parent of e1e130a... cleanup old layouts
 
 
 Postdoctoral fellows:
