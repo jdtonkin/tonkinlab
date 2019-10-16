@@ -34,15 +34,14 @@ Text here
 
 
 
-
-<div style="text-align: center">
-<a href="/opportunities">
-<button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
-<font color="#285F75">
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> Click here. 
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> &nbsp; <i class="fas fa-exclamation-circle"></i> 
+&nbsp;
+<div style="text-align: left">
+<button style="background-color:285F75; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
+<font color="#white">
+Position 1 
 </font>
 </button>
-</a>
 </div>
 
 
