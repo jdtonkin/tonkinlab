@@ -49,4 +49,4 @@ If you are a current University of Canterbury undergraduate student interested i
 There are not many places in the world, where you can go for a surf in the morning and follow it up for a snowboard in the afternoon. Christchurch is one of these places. If you're into the outdoors, like me, it's a bit of a wonderland. In addition to surf and snowboarding/skiing, there is world class hiking, fishing, bouldering etc. all within an hour or two drive. Thus, amazing field sites are equally accessible, including several University of Canterbury [Field Stations](https://www.canterbury.ac.nz/life/facilities/field/) (Cass is 1.5 hr away) and a diverse range of montane landscapes and riverscapes. 
 
 
-<img class="pure-img" src="{{ "/static/img/taylor-waimak.png" | absolute_url }}" >
+<img class="pure-img" src="{{ "taylor-waimak.png" | absolute_url }}" >
