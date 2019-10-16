@@ -18,6 +18,14 @@ We are always on the lookout for motivated students and postdocs to join the gro
 
 ## Open opportunities
 
+<div style="text-align: center">
+<button style="background-color:#285F75; border-radius:5px; width: 100%; border: 2px solid #285F75; ">
+<font color="white">
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> 
+</font>
+</button>
+</div>
+
 ### Graduate students
 Check back soon. I will be advertising 1-2 PhD projects in the next couple of weeks. 
 
@@ -26,32 +34,11 @@ Check back soon. I will be advertising 1-2 PhD projects in the next couple of we
 In addition to currently-funded positions, I welcome direct applications for independently-financed projects.  
 
 ### Postdoctoral positions
-Text here
+We don't currently have any funded opportunities for postdoctoral researchers, but very much welcome inquiries. If you're interested in joining the group, please do get in touch with Jono with an outline of your proposed research and a CV. Funding for postdocs in New Zealand is pretty limited, so it may be best to seek funding from your home country. Jono can help put together a proposal for external funding. Any positions that do come available will be clearly advertised.  
+
 
 ### Graduate students
 Text here
-
-
-
-
-
-<div style="text-align: left">
-<button style="background-color:#285F75; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
-<font color="white">
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> 
-</font>
-</button>
-</div>
-
-
-
-Postdoctoral fellows:
-We currently have no funded openings for postdoctoral fellows but are always open to intriguing possibilities. If you are interested in beginning discussions of options for pursuing external funding (e.g., Marie Curie Outgoing Fellowships, NSERC Postdoctoral Fellowships, or Beques BP-A), please email Daniel with a list of research interests and a copy of your CV.
-
-
-Anybody interested in carrying out postdoctoral research in our group should contact Jason Tylianakis in the first instance with an outline of their proposed research topic. I am happy to consider any potential idea that falls within my general expertise. Postdoctoral funding in New Zealand is very difficult to obtain, so it is necessary in most cases to secure funding from the researcher's home country. If we have any funded positions available, these will be advertised on the homepage of this website.
-
-
 
 Graduate students:
 We currently have no funded openings for graduate students in the group. The University of Canterbury, however, offers doctoral fellowships twice a year whose deadlines generally fall in mid-May and mid-October. If you are interested in applying for one of these scholarships, please email Daniel well in advance to express your interest and discuss the application process.
@@ -66,6 +53,13 @@ We conduct field work at a range of locations (normally in New Zealand, though w
 How to get funding for studies, research, and living costs?
 Research costs vary depending on the project, with some requiring little funding (e.g. for petrol to visit field sites) and others requiring more (large-scale DNA sequencing, elaborate field experiments, etc). If a postgraduate research project does not fall within a larger funded project, then it may be necessary to apply for further funding before you begin. In addition, it is not usually feasible to work in paid employment outside of the university (nor do we have enough TA work within the university to support postgraduate students), so you would need some kind of scholarship to cover your living costs for the duration of your study.
 Some information on potential scholarships in biology can be found here, and it is also worth looking for funding opportunities in your home country.
+
+
+Undergraduate Students
+If you are a current UC Berkeley undergraduate student interested in gaining research experience, conducting a summer internship, or developing an honors thesis on freshwater ecology, please e-mail us and we will talk about ongoing projects that may be of interest. UC Berkeley undergraduates may apply to work in our group through various programs, such as URAP, SPUR, and BSP.
+
+Graduate Students
+Highly-motivated individuals wishing to join our group as a Ph.D. student are encouraged to e-mail me, including a CV and a description of background and research interests. This conversation should take place well before applying to the ESPM’s Ph.D. program, so that we can discuss fit and identify potential research projects. Many funding opportunities exist, such as NSF-GRFP, EPA-STAR, Ford Foundation, Delta Science Fellowship.
 
 
 
