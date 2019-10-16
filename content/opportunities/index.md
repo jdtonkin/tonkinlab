@@ -32,19 +32,25 @@ Text here
 Text here
 
 
-<div class="alert red">
-This is a <b>Red Alert!</b> Take cover. 
-</div>
 
 
 
 
 
-{{% alert jono %}} 
+{{% alert %}} 
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
 
+<div style="text-align: center">
+<a href="/opportunities">
+<button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
+<font color="#285F75">
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions!</b> Click here. 
+</font>
+</button>
+</a>
+</div>
 
 
 Postdoctoral fellows:
