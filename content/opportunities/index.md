@@ -45,11 +45,6 @@ Quickly discover relevant content by [filtering publications]({{< ref "/publicat
 {{% /alert %}}
 
 
-{{% highlight %}}
-highlight highlight
-{{% /highlight %}}
-
-
 
 
 Postdoctoral fellows:
