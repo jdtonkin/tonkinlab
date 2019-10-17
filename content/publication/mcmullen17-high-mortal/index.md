@@ -9,6 +9,6 @@ featured: false
 publication: "*Ecology Letters*"
 url_pdf: "https://doi.org/10.1111/ele.12866"
 doi: "10.1111/ele.12866"
-projects: ['flow-eco', 'forecasting']
+projects: ['flow-eco', 'forecasting', 'pop-models']
 ---
 
