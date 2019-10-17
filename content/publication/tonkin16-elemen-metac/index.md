@@ -9,6 +9,5 @@ featured: false
 publication: "*Ecological Complexity*"
 url_pdf: "https://doi.org/10.1016/j.ecocom.2015.12.002"
 doi: "10.1016/j.ecocom.2015.12.002"
-projects: ['metacommunities']
 ---
 

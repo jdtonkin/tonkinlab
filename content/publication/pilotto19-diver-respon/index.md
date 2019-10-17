@@ -1,5 +1,5 @@
 ---
-title: "Diverging Response Patterns of Terrestrial and Aquatic Species To Hydromorphological Restoration"
+title: "Diverging response patterns of terrestrial and aquatic species to hydromorphological restoration"
 date: 2019-01-01
 publishDate: 2019-10-11T03:00:20.742446Z
 authors: ["F. Pilotto", "**J.D. Tonkin**", "K. Januschke", "A.W. Lorenz", "J. Jourdan", "A. Sundermann", "D. Hering", "S. Stoll", "P. Haase"]

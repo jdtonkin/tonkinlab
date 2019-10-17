@@ -9,5 +9,6 @@ featured: false
 publication: "*PeerJ*"
 url_pdf: "https://doi.org/10.7717/peerj.4898"
 doi: "10.7717/peerj.4898"
+projects: ['metacommunities']
 ---
 

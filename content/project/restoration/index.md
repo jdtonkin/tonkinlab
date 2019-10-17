@@ -45,7 +45,7 @@ url_video = ""
 +++
 
 
-Recent decades has seen increasing emphasis on the restoration of freshwater ecosystems globally. Despite significant expenditures, projects often do not meet their goals of restoring biodiversity. We analyse datasets to uncover the drivers of success or failure, including the role of dispersal and metacommunity dynamics. 
+In recent decades, increasing emphasis has been placed on the restoration of freshwater ecosystems globally. Despite significant expenditures, projects often do not meet their goals of restoring biodiversity. We analyse datasets to uncover the drivers of success or failure, including the role of dispersal and metacommunity dynamics. 
   
 Contemporary ecosystem management is guided by the principle of embracing the historical range of environmental variation when setting restoration targets for degraded systems. By pushing systems away from their historical envelope of variability, rapid climate change is increasingly putting this approach into question. We use models to forecast the potential outcomes of restorative or other human interventions on biodiversity into an uncertain hydro-climatic future.  
 
