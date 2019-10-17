@@ -6,7 +6,7 @@ title = "Mechanistic population modelling"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Models such as matrix population models that link population dynamics with environmental variability"
+summary = "Models that link population dynamics with environmental variability."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,5 +44,5 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Modelling approaches based on past correlations do poorly looking into the future for how species may respond to unprecedented changes. By explicitly modelling the biology underpinning the distribution of species, rather than correlating the presence of species with particular conditions, mechanistic, or process-based, models offer a greater capacity to forecast species responses to novel combinations of environmental conditions. We develop mechanistic population models that link population dynamics with environmental variability, including matrix projection models and time-varying logistic growth models. We also develop approaches to link population models together in a community-wide framework that enables an understanding of community dynamics under various future conditions. These are typically focused on river ecosystems by linking river flow regimes with invertebrates, fish and riparian plants, but we are expanding into new ecosystems, including the Antarctic. 
+Modelling approaches based on past correlations do poorly looking into the future for how species may respond to unprecedented changes. By explicitly modelling the biology underpinning the distribution of species, rather than correlating the presence of species with particular conditions, mechanistic, or process-based, models offer a greater capacity to forecast species responses to novel combinations of environmental conditions. We develop mechanistic population models that link population dynamics with environmental variability, including matrix population models and time-varying logistic growth models. We also develop approaches to link population models together in a community-wide framework that enables an understanding of community dynamics under various future conditions. These are typically focused on river ecosystems by linking river flow regimes with invertebrates, fish and riparian plants, but we are expanding into new ecosystems, including the Antarctic. 
 

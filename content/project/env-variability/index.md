@@ -6,7 +6,7 @@ title = "Temporal ecological variability"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "The role of temporal environmental fluctuations on population and community dynamics across scales."
+summary = "The role of environmental fluctuations on population & community dynamics across scales."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
