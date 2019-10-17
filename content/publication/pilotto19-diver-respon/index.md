@@ -9,6 +9,6 @@ featured: false
 publication: "*Conservation Biology*"
 url_pdf: "https://doi.org/10.1111/cobi.13176"
 doi: "10.1111/cobi.13176"
-projects: ['river-biodiversity', 'restoration']
+projects: ['restoration']
 ---
 

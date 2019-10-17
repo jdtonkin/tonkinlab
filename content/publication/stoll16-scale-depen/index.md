@@ -9,6 +9,6 @@ featured: false
 publication: "*Science of the Total Environment*"
 url_pdf: "https://doi.org/10.1016/j.scitotenv.2016.02.126"
 doi: "10.1016/j.scitotenv.2016.02.126"
-projects: ['river-biodiversity', 'restoration']
+projects: ['restoration']
 ---
 

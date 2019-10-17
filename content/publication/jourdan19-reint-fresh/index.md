@@ -9,6 +9,6 @@ featured: false
 publication: "*Biological Reviews*"
 url_pdf: "https://doi.org/10.1111/brv.12458"
 doi: "10.1111/brv.12458"
-projects: ['river-biodiversity', 'restoration']
+projects: ['restoration']
 ---
 

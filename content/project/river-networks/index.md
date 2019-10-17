@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Drivers of freshwater biodiversity"
+title = "Organisation of biodiversity in river networks"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We are passionate about freshwater environments. We seek to understand their biodiversity and are particularly interested in the role that the structure of river networks has in this."
+summary = "We seek to understand the role of the dendritic structure of river networks on their biodiversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,6 +44,5 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-We are passionate about freshwater environments. We seek to understand their biodiversity and are particularly interested in the role that the structure of river networks has in this.
 
-
+Rivers are spatially organised into hierarchical dendritic networks. This unique physical structure and the associated directionality of physical flows sets them apart from most other environments by regulating the dispersal of resident biota and therefore the distribution of biodiversity. River networks comprise collections of connected populations (metapopulations), communities (metacommunities), and ecoystems (metaecosystems). I study how biodiversity is organised in river networks and how their unique physical structuring affects metapopulation and metacommmunity dynamics.
