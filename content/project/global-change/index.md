@@ -6,7 +6,7 @@ title = "Global change ecology"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Climate change and land-use change effects on biodiversity."
+summary = "Climate and other environmental change effects on biodiversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -37,10 +37,11 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = ""
+  # caption = "Riparian ecological networks forecasted to simplify under increasing future drought (see Tonkin et al., 2018; Nature Eco. Evo.)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
+The world is changing at rates unprecedented in human history, leading to major disruption of ecological dynamics. We have uncovered various mechanisms of how freshwater biodiversity is being affected by this change. We also focus on developing forecasts of how biodiversity will respond to this change into the future. 

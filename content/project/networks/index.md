@@ -6,7 +6,7 @@ title = "Ecological networks in a changing world"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Towards prediction of ecological networks; understanding the context dependency of interactions in networks."
+summary = "Species interaction networks, spatial ecological networks, and networks of networks."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -37,13 +37,11 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Riparian ecological networks simplifying under increasing forecasted drought (see Tonkin et al., 2018; Nature Eco. Evo.)"
+  # caption = "Multilayer networks have opened the door to a greater understanding of the architecture of ecological systems."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-
-
-Spatial ecological networks and species interaction networks. 
+We are interested in both species interaction networks (the web of interactions between species in a community) and spatial ecological networks. Studies of interaction networks have led to great advances in our understanding of the structure and organisation of ecological communities. But these studies often overlook the role of individual species in forming these complex networks and the extent to which species roles vary with the context in which they are found. We use tools such as network motif analysis to understand the causes and consequences of species roles in complex multilayer networks. We have also used creative approaches to uncover species interaction networks using coupled population models. Finally, we are particularly interested in forward-looking approaches, including designing blue-green infrastructure networks that are robust to future uncertainty for the protection of biodiversity. 
