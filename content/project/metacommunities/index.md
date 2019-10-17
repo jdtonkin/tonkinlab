@@ -6,7 +6,7 @@ title = "Metacommunity ecology"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Understanding the role of local and regional drivers of biodiversity including dispersal."
+summary = "Disentangling the role of local and regional drivers of biodiversity including dispersal."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`

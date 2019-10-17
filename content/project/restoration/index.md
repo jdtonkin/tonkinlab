@@ -6,7 +6,7 @@ title = "River restoration and management"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We seek a better understanding of the drivers of restoration success to improve restoration practice in the future."
+summary = "Understanding the drivers of restoration success to improve restoration practice in the future."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`

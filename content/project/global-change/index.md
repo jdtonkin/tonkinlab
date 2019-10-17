@@ -6,7 +6,7 @@ title = "Global change ecology"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "Climate and other environmental change effects on biodiversity."
+summary = "Biodiversity responses to climate and other environmental change."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`

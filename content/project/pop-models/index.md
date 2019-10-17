@@ -6,7 +6,7 @@ title = "Mechanistic population modelling"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We build population models (e.g. matrix projections) that link populations with environmental variability"
+summary = "Models such as matrix population models that link population dynamics with environmental variability"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
