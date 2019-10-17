@@ -6,7 +6,7 @@ title = "Organisation of biodiversity in river networks"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We seek to understand the role of the dendritic structure of river networks on their biodiversity."
+summary = "Uncovering the role of the dendritic structure of river networks on their biodiversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
