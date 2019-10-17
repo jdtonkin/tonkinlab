@@ -16,17 +16,17 @@ header:
 
 We are always on the lookout for motivated students and postdocs to join the group. If you’ve had a look around our website and you’re interested in working with us, please do get in touch. Likewise, if you have an idea for a project, [get in touch](mailto:jonathan.tonkin@canterbury.ac.nz) and include a brief introduction of your experience, research interests and goals. 
 
-<div style="text-align: center">
-<a href="/open">
-<button style="background-color:#285F75; border-radius:5px; width: 100%; border: 2px solid #285F75; ">
-<font color="white">
-<font size=5>
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions! Click to see.</b> 
-</font>
-</font>
-</button>
-</a>
-</div>
+<!-- <div style="text-align: center"> -->
+<!-- <a href="/open"> -->
+<!-- <button style="background-color:#285F75; border-radius:5px; width: 100%; border: 2px solid #285F75; "> -->
+<!-- <font color="white"> -->
+<!-- <font size=5> -->
+<!-- <i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have open positions! Click to see.</b>  -->
+<!-- </font> -->
+<!-- </font> -->
+<!-- </button> -->
+<!-- </a> -->
+<!-- </div> -->
 
 
 ## Postdoctoral researchers
