@@ -6,7 +6,7 @@ title = "Temporal ecological variability"
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "The role of temporal environmental variability (e.g. seasonality and predictability) in shaping population and community dynamics at multiple scales."
+summary = "The role of temporal environmental variability in shaping population and community dynamics at multiple scales."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
