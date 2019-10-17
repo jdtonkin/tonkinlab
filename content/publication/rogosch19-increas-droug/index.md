@@ -9,6 +9,6 @@ featured: false
 publication: "*Ecosphere*"
 url_pdf: "https://doi.org/10.1002/ecs2.2681"
 doi: "10.1002/ecs2.2681"
-projects: ['flow-eco', 'forecasting', 'river-biodiversity']
+projects: ['flow-eco', 'forecasting', 'pop-models']
 ---
 

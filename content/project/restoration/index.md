@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "River restoration"
+title = "River restoration and management"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We seek a better understanding of the drivers of restoration success to improve restoration practice in future. "
+summary = "We seek a better understanding of the drivers of restoration success to improve restoration practice in the future. "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -37,10 +37,12 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = ""
+  # caption = "Responses of different organisms to hydromorphological restoration in central Germany (now published in Pilotto et al., 2019; Conservation Biology)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+
 

@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Drivers of freshwater biodiversity"
+title = "Freshwater biodiversity"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We are passionate about freshwater environments. We seek to understand their biodiversity and are particularly interested in the role that the structure of river networks has in this."
+summary = "We are passionate about freshwater environments, and hope to better understand and protect their biodiversity."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,6 +44,7 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-We are passionate about freshwater environments. We seek to understand their biodiversity and are particularly interested in the role that the structure of river networks has in this.
+We are passionate about freshwater environments, and hope to better understand and protect their biodiversity. 
+
 
 

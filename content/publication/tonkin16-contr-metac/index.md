@@ -9,6 +9,6 @@ featured: false
 publication: "*Oikos*"
 url_pdf: "https://doi.org/10.1111/oik.02717"
 doi: "10.1111/oik.02717"
-projects: ['river-biodiversity', 'metacommunities']
+projects: ['fw-biodiversity', 'metacommunities']
 ---
 
