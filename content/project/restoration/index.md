@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Responses of different organisms to hydromorphological restoration in central Germany (see Pilotto et al., 2019; Conservation Biology)"
+  caption = "Responses of different organisms to hydromorphological restoration in Germany (see Pilotto et al., 2019)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

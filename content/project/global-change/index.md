@@ -37,11 +37,11 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Riparian ecological networks forecasted to simplify under increasing future drought (see Tonkin et al., 2018; Nature Eco. Evo.)"
+  caption = "Riparian plant networks under increasing future drought"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-The world is changing at rates unprecedented in human history, leading to major disruption of ecological dynamics. We have uncovered various mechanisms of how freshwater biodiversity is being affected by this change. We also focus on developing forecasts of how biodiversity will respond to this change into the future. 
+The world is changing at rates unprecedented in human history, leading to major disruption of ecological dynamics. By analysing long-term ecological datasets with various statistical tools, we have uncovered various mechanisms of how freshwater biodiversity is being affected by this change. We also focus on developing forecasts of how biodiversity will respond to this change into the future (see [forecasting](/project/forecasting)). 

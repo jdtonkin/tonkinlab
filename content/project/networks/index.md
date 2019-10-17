@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Multilayer networks have opened the door to a greater understanding of the architecture of ecological systems."
+  caption = "Multilayer networks enable a greater understanding of the architecture of ecological systems."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

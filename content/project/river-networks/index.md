@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Different forms of connectivity for species dispersing in river networks (sourced from Tonkin et al., 2018; Freshwater Biology)."
+  caption = "Different forms of connectivity in river networks (from Tonkin et al., 2018; FWB)."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
