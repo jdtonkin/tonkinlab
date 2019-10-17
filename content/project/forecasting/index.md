@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Mechanistic models and statistical projections based on recent conditions lead to vastly different predictions into the future (see Tonkin et al., 2019, Nature)."
+  caption = "Mechanistic models and statistical projections based on recent conditions lead to vastly different predictions into the future (see Tonkin et al., 2019, Nature)."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

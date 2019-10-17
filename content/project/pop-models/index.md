@@ -37,7 +37,7 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  # caption = "Stage-structured matrix population models for two riparian plant species (taken from Lytle et al., 2017; Eco. Apps.)"
+  caption = "Stage-structured matrix population models for two riparian plant species (taken from Lytle et al., 2017; Eco. Apps.)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
