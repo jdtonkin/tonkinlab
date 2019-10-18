@@ -44,4 +44,4 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-The world is changing at rates unprecedented in human history, leading to major disruption of ecological dynamics. By analysing long-term ecological datasets with various statistical tools, we have uncovered various mechanisms of how freshwater biodiversity is being affected by this change. We also focus on developing forecasts of how biodiversity will respond to this change into the future (see [forecasting](/project/forecasting)). 
+The world is changing at rates unprecedented in human history, leading to major disruption of ecological dynamics. By analysing long-term ecological datasets with various statistical tools, we have uncovered the various ways in which freshwater biodiversity is being affected by this change. We also focus on developing forecasts of how biodiversity will respond to this change into the future (see [forecasting](/project/forecasting)). 
