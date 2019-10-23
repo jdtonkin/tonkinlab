@@ -59,7 +59,7 @@ subtitle = ""
 <!-- <br> -->
 
 <div style="text-align: center">
-<a href="/opportunities">
+<a href="/open">
 <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
 <font color="#285F75">
 <i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have two positions open!</b> Click here. 
