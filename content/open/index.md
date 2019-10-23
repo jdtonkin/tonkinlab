@@ -15,8 +15,8 @@ header:
 ---
 
 ## Two PhD positions available in quantitative population and community ecology
-School of Biological Sciences 
-University of Canterbury, New Zealand
+School of Biological Sciences  
+University of Canterbury, New Zealand  
 Oct 2019
 
 The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstanding applicants for up to two fully-funded PhD scholarships in quantitative population and community ecology. The scholarships are part of a larger research programme entitled "Rethinking ecological networks in changing environments". There will be flexibility for the candidate to develop the specific research project, but potential topics include: the development of mechanistic population models that link river flows with population dynamics in a community-wide framework (see our recent paper on wider this topic; Nature 570, 301-303); quantifying how targeted management interventions under uncertain environmental futures propagate through entire ecosystems; and disentangling how different environmental fluctuations interact with the spatial scale at which species move, to generate new insight into ecosystem stability under global climate change. This programme includes collaborators from University of Canterbury, Oregon State University, University of Washington, University of California Berkeley, Sao Paulo State University, and University of Zurich. 
