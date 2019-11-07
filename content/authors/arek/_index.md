@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
+interests:
 - Population Dynamics
 - Avian Ecology
 - Anthrome-ecosystem interactions
