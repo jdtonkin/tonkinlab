@@ -63,4 +63,3 @@ user_groups:
 - Grad Students
 ---
 
-See any advertised positions, or get in touch with Jono to discuss ideas. 
