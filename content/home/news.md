@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Dec 2019 » _News piece on our Nature paper_.** Karla Lant at the Environmental Monitor recently published this really nice news piece on our river management perspective piece [here](https://www.fondriest.com/news/river-management-on-a-changing-planet.htm).  
+
 **Oct 2019 » _Permanent position_.** Jono received the news that he has a permanent position at the University of Canterbury in the fabulous School of Biological Sciences. He's delighted to get to set down roots and build a flourishing research lab in his home country of New Zealand. 
 
 **Sept 2019 » _New Tonkin Lab website_.** Welcome to the new-look Tonkin Lab website. Keep your eyes peeled for upcoming opportunities to join the lab. 
