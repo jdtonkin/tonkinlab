@@ -8,8 +8,6 @@ weight = 50  # Order that this section will appear.
 title = "People"
 subtitle = ""
 
-show_interests = "false"
-
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Team","Alumni"]
