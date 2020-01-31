@@ -1,7 +1,7 @@
 ---
 # Display name
 name: This could be you 
-weight: 1
+weight: 600
 
 # Username (this should match the folder name)
 authors:
