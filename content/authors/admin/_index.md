@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Jonathan Tonkin
+weight: 10
 
 # Username (this should match the folder name)
 authors:
