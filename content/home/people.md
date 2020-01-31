@@ -10,8 +10,7 @@ subtitle = ""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Principal Investigator",
-               "Grad Students"]
+user_groups = ["Team","Alumni"]
 +++
 
 We are part of the [FERG](https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/research/ferg/) group and work closely with several other labs at UC (e.g. [Tylianakis Lab](https://www.tylianakislab.org/)).
