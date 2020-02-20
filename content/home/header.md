@@ -58,23 +58,23 @@ subtitle = ""
 <!-- <br> -->
 <!-- <br> -->
 
-<!-- <div style="text-align: center"> -->
-<!-- <a href="/open"> -->
-<!-- <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; "> -->
-<!-- <font color="#285F75"> -->
-<!-- <i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have two positions open!</b> Click here.  -->
-<!-- </font> -->
-<!-- </button> -->
-<!-- </a> -->
-<!-- </div> -->
-
 <div style="text-align: center">
+<a href="/open">
 <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
 <font color="#285F75">
-<i class="fas fa-exclamation-circle"></i> &nbsp; Check back soon for a new PhD advertisement. 
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>We have a position available!</b> Click here.
 </font>
 </button>
+</a>
 </div>
+
+<!-- <div style="text-align: center"> -->
+<!-- <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; "> -->
+<!-- <font color="#285F75"> -->
+<!-- <i class="fas fa-exclamation-circle"></i> &nbsp; Check back soon for a new PhD advertisement.  -->
+<!-- </font> -->
+<!-- </button> -->
+<!-- </div> -->
 
 <br>
 <br>
