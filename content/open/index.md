@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-**PhD position available in distribution modelling of Antarctic species in a warming world**
+**PhD position available in distribution modelling of Antarctic species in a warming world**  
 School of Biological Sciences  
 University of Canterbury, New Zealand  
 Feb 2020  
