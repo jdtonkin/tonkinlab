@@ -14,10 +14,10 @@ header:
   image: ""
 ---
 
-PhD position available in distribution modelling of Antarctic species in a warming world
-School of Biological Sciences  \\
-University of Canterbury, New Zealand  \\
-Feb 2020
+**PhD position available in distribution modelling of Antarctic species in a warming world**
+School of Biological Sciences  
+University of Canterbury, New Zealand  
+Feb 2020  
 
 The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstanding applicants for one fully-funded PhD scholarship in distribution modelling of Antarctic species in a warming world. The scholarship is part of the recently-funded Antarctic Science Platform (https://www.antarcticscienceplatform.org.nz), and more specifically Project 3, which is focused on ecosystem dynamics of the Ross Sea Region. The Ross Sea Region includes some of the most pristine ecosystems on Earth. However, Antarctica and the Southern Ocean are increasingly subject to the effects of climate change, which may fundamentally impact their unique ecosystems by altering the physical environment in ways that can affect species distribution, abundance, and productivity. The goal of Project 3 is to improve projections of how Ross Sea Region ecosystems will respond to anticipated change.
 
@@ -33,11 +33,11 @@ The goal for this PhD project is to develop and apply process-explicit species d
 
 **Start date:** Mid 2020, but this is flexible. 
 
-**Contact:** To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references as a single pdf file to: \\
-Dr. Jonathan Tonkin \\
-School of Biological Sciences \\
-University of Canterbury \\
-\href{mailto:jonathan.tonkin@canterbury.ac.nz}{jonathan.tonkin@canterbury.ac.nz}
+**Contact:** To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references as a single pdf file to:  
+Dr. Jonathan Tonkin  
+School of Biological Sciences  
+University of Canterbury  
+jonathan.tonkin@canterbury.ac.nz  
 
 The deadline for applications is 20 March 2020.
 
