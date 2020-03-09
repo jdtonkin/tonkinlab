@@ -16,7 +16,7 @@ header:
 
 We currently have two positions open
 
-* Position 1: closing 10 April 2020. 
+# Position 1: closing 10 April 2020 
 
 **PhD position available on biodiversity in fluctuating environments**  
 School of Biological Sciences  
@@ -45,7 +45,7 @@ The deadline for applications is 10 April 2020.
 
 
 
-* Position 2: closing 20 March 2020. 
+# Position 2: closing 20 March 2020 
 
 **PhD position available in distribution modelling of Antarctic species in a warming world**  
 School of Biological Sciences  
