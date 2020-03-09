@@ -14,6 +14,39 @@ header:
   image: ""
 ---
 
+We currently have two positions open
+
+* Position 1: closing 10 April 2020. 
+
+**PhD position available on biodiversity in fluctuating environments**  
+School of Biological Sciences  
+University of Canterbury, New Zealand  
+Feb 2020  
+
+The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstanding applicants for one fully-funded PhD scholarship in quantitative community ecology. For this project, we seek to understand how biodiversity responds to various forms of temporal environmental variability, including seasonality. For background, please see Tonkin et al. (2017; Ecology 98: 1201-1216). The PhD project will be co-supervised by Prof. Jason Tylianakis (http://tylianakislab.org). 
+
+**Qualifications:** Undergraduate degree and Honours and/or Master's degree (with research component) in ecology or related field. Priority will be given to applicants with analytical/modelling and programming skills (e.g. R or python) and a background in ecological theory. A demonstrated ability to publish in peer-reviewed journals will be viewed favourably. The projects are theoretical/computational, but funding opportunities are available to pursue for field projects.  
+
+**Location:** These positions will be based in the newly formed group of Dr. Jonathan Tonkin (http://tonkinlab.org) in the School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. We are, broadly speaking, community ecologists. But we ask a range of questions to understand how populations and communities vary in space and time, including how landscape or river network structure and dispersal interact to affect the organisation of biodiversity; how global change will alter the structure of ecological networks; how river and riparian species respond to changes in flow regimes (cycles of floods and drought); and how best to forecast the distribution of species in changing landscapes. We are particularly enamoured with freshwater ecosystems, but our research spans disciplinary and ecological boundaries. Our lab is focused on embracing diversity in its membership, and we encourage all suitably qualified individuals to apply. The School of Biological Sciences at the University of Canterbury benefits from a diverse community of researchers from a range of disciplines, supporting world-leading research across all levels of biological organisation. The University of Canterbury has a large and diverse postgraduate community, and a picturesque campus situated within reach of the mountains and sea. 
+
+**Further information:** http://tonkinlab.org/
+
+**Funding:** The 3-year scholarship provides an annual stipend of NZD$27,500 (tax free) and covers full university fees (tuition). 
+
+**Start date:** Last quarter 2020, but this is flexible. 
+
+**Contact:** To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references to:  
+Dr. Jonathan Tonkin  
+School of Biological Sciences  
+University of Canterbury  
+jonathan.tonkin@canterbury.ac.nz
+
+The deadline for applications is 10 April 2020.
+
+
+
+* Position 2: closing 20 March 2020. 
+
 **PhD position available in distribution modelling of Antarctic species in a warming world**  
 School of Biological Sciences  
 University of Canterbury, New Zealand  
