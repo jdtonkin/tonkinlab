@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postgraduate Certificate in Antarctic Studies (PCAS) student
+role: Master's student
 
 # Organizations/Affiliations
 organizations:
