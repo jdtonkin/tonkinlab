@@ -3,7 +3,7 @@
 title = "Antarctic Science Platform"
 
 # Date this page was created.
-date = 2020-03-10
+date = 2020-03-10T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "Projecting Ross Sea Region ecosystem changes in a warming world"
@@ -59,3 +59,4 @@ The project will focus on the questions:
 
 
 Link to ASP [here](https://www.antarcticscienceplatform.org.nz/). 
+ 
