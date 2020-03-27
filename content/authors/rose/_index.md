@@ -22,6 +22,13 @@ organizations:
 bio: 
 
 # interests:
+-	Polar marine mammal ecology
+-	Polar avian ecology
+-	Remote sensing 
+-	Marine conservation 
+-	Behavioural ecology
+-	Community ecology
+-	Satellite telemetry 
 
 # education:
 #  courses:
@@ -61,4 +68,9 @@ user_groups:
 - Team
 ---
 
-TBC
+I am a PhD candidate at the University of Canterbury, studying emperor penguin population dynamics, Weddell seal behavioural ecology, and how these two species interact in the Ross Sea.  
+
+In a previous life, I was a flight attendant for Qantas. However, after almost 4-years I decided that I could be doing something more useful for the planet – so I resigned and started my BSc in marine biology and conservation at Auckland University of Technology. I realised early on in my undergrad that understanding the impact of environmental change on the planet’s vulnerable polar species was where my passion lay. On completion of my BSc in 2018, I was accepted into UC’s Postgraduate Certificate of Antarctic Studies summer course and then began the Masters of Antarctic Studies in February 2019, supervised Dr. Michelle LaRue. This project involved using satellite imagery to understand how environmental change impacts emperor penguin population dynamics in the Ross Sea over a nearly 20-year period. In October 2019, I was given the opportunity to upgrade my masters to a PhD, which led to joining the Tonkin Lab and expanding our original project to include studying behavioural differences between female Weddell seals with pups using seal-mounted cameras and using understanding how emperor penguins and Weddell seals interact with each other in the Ross Sea using species distribution modelling.  I have visited Antarctica twice, most recently in Feb-Mar 2020, as a field assistant for the Ross Sea Research and Monitoring Program, where we tagged 18 post-moult postpartum female Weddell seals with CTD tags as part of a 5-year project aiming to understand the effectiveness of the Ross Sea Marine Protected Area.  
+
+I am extremely motivated, passionate, and excited to continue on this path, aiming to one day work on marine ecology and conservation research in both the Arctic and Antarctica.  
+
