@@ -21,14 +21,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# interests:
--	Polar marine mammal ecology
--	Polar avian ecology
--	Remote sensing 
--	Marine conservation 
--	Behavioural ecology
--	Community ecology
--	Satellite telemetry 
+interests:
+- Polar marine mammal ecology
+- Polar avian ecology
+- Remote sensing 
+- Marine conservation 
+- Behavioural ecology
+- Community ecology
+- Satellite telemetry 
 
 # education:
 #  courses:
