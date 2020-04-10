@@ -14,8 +14,6 @@ header:
   image: ""
 ---
 
-We currently have two positions open
-
 # Deadline extended! Now closing 24 April 2020. 
 
 **PhD position available on biodiversity in fluctuating environments**  
