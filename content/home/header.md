@@ -55,18 +55,19 @@ subtitle = ""
 <p style="text-align:center"><font size="7">Ecology in a changing world</font></p>
 <p style="text-align:center"><font size="5">Welcome to the Tonkin Lab at the University of Canterbury in New Zealand</font></p>
 <br>
-<!-- <br> -->
-<!-- <br> -->
 
-<div style="text-align: center">
-<a href="/open">
-<button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
-<font color="#285F75">
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>Position available! Deadline extended.</b> Click here.
-</font>
-</button>
-</a>
-</div>
+<br>
+<br>
+
+<!-- <div style="text-align: center"> -->
+<!-- <a href="/open"> -->
+<!-- <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; "> -->
+<!-- <font color="#285F75"> -->
+<!-- <i class="fas fa-exclamation-circle"></i> &nbsp; <b>Position available! Deadline extended.</b> Click here. -->
+<!-- </font> -->
+<!-- </button> -->
+<!-- </a> -->
+<!-- </div> -->
 
 <!-- <div style="text-align: center"> -->
 <!-- <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; "> -->
