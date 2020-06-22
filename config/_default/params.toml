@@ -20,7 +20,7 @@ font = "Fira"
 # Sizes: s (small), m (medium), l (large)
 font_size = "m"
 
-highlight_superuser = true
+# highlight_superuser = true
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
