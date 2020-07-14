@@ -20,7 +20,7 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
-**June 2020 » _New funding to forecast fish species response to changing flow regimes_.** Jono recently received funding to develop new models to forecast how native NZ fish will respond to climate-induced changes to flow regimes. Stay tuned for a new PhD advertisement coming soon. 
+**June 2020 » _New funding to forecast fish species response to changing flow regimes_.** Jono recently received funding to develop new models to forecast how native NZ fish will respond to climate-induced changes to flow regimes. Stay tuned for a new PhD advertisement coming soon.  
 
 **Feb 2020 » _Paper coming soon on conservation of aquatic macroinvertebrate biodiversity in tropical regions_.** This should be available in the next few weeks in _Aquatic Conservation: Marine and Freshwater Ecosystems_. 
 
