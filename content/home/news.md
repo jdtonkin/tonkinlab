@@ -20,8 +20,11 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
-**June 2020 » _New funding to forecast fish species response to changing flow regimes_.** Jono recently received funding to develop new models to forecast how native NZ fish will respond to climate-induced changes to flow regimes. Stay tuned for a new PhD advertisement coming soon.  
+<<<<<<< HEAD
+=======
+**June 2020 » _New funding to forecast fish species response to changing flow regimes_.** Jono recently received funding to develop new models to forecast how native NZ fish will respond to climate-induced changes to flow regimes. Stay tuned for a new PhD advertisement coming soon. 
 
+>>>>>>> parent of ff5c7e3... add space - rm theme
 **Feb 2020 » _Paper coming soon on conservation of aquatic macroinvertebrate biodiversity in tropical regions_.** This should be available in the next few weeks in _Aquatic Conservation: Marine and Freshwater Ecosystems_. 
 
 **Dec 2019 » _News piece on our Nature paper_.** Karla Lant at the Environmental Monitor recently published this really nice news piece on our river management perspective piece [here](https://www.fondriest.com/news/river-management-on-a-changing-planet.htm).  
