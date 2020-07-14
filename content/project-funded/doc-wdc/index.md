@@ -51,3 +51,5 @@ By explicitly modelling the biology underpinning the distribution of species, ra
 
 This project will navigate these challenges and aim to generate quantitative forecasting methods that are robust to hydro-climatic nonstationarity to forecast NZ’s freshwater fish species responses to various climate change scenarios. These will include both mechanistic models for long-term projections and statistical models for near-term forecasts of how species will respond to climate change.
  
+
+
