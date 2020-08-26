@@ -7,7 +7,5 @@ publication_types: ["2"]
 abstract: "xxx"
 featured: false
 publication: "*Frontiers in Ecology and the Environment*"
-url_pdf: "https://doi.org/"
-doi: "xxx"
 ---
 
