@@ -14,7 +14,35 @@ header:
   image: ""
 ---
 
-No open positions right now. Check back later. 
+<!-- No open positions right now. Check back later.  -->
+
+** PhD position available on modelling fish species vulnerability to climate change**  
+School of Biological Sciences  
+University of Canterbury, New Zealand  
+Sept 2020
+
+NOTE: Due to the COVID-19 border restrictions, I am initially limiting the search to NZ residents/citizens.  
+
+The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstanding applicants for one fully-funded PhD scholarship in quantitative population and community ecology. For this project, we seek to generate near-term forecasts and long-term projections of fish population and community responses to changing flow regimes. We intend to develop a combination of mechanistic and statistical modelling approaches that will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers. Candidates are also given considerable intellectual freedom to pursue their individual interests in alignment with the project. 
+
+**Qualifications:** Undergraduate degree and Honours and/or Master's degree (with research component) in ecology or related field. Priority will be given to applicants with analytical/modelling and programming skills (e.g. R or python) and a background in ecological theory. A demonstrated ability to publish in peer-reviewed journals will be viewed favourably. The funded project is computational, but funding opportunities are available to pursue for aligned field projects.  
+
+**Location:** This position will be based in the newly formed group of Dr. Jonathan Tonkin (http://tonkinlab.org) in the School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. We are, broadly speaking, community ecologists. But we ask a range of questions to understand how populations and communities vary in space and time, including how landscape or river network structure and dispersal interact to affect the organisation of biodiversity; how environmental change will alter the structure of ecological networks; how river and riparian species respond to changes in flow regimes (cycles of floods and drought); and how best to forecast the distribution of species in changing landscapes. We are particularly enamoured with freshwater ecosystems, but our research spans disciplinary and ecological boundaries. Our lab is focused on embracing diversity in its membership, and we encourage all suitably qualified individuals to apply. The School of Biological Sciences at the University of Canterbury benefits from a diverse community of researchers from a range of disciplines, supporting world-leading research across all levels of biological organisation. The University of Canterbury has a large and diverse postgraduate community, and a picturesque campus situated within reach of the mountains and sea. 
+
+**Further information:** http://tonkinlab.org/  
+
+**Funding:** The 3-year scholarship provides an annual stipend of NZD$27,500 (tax free) and covers full university fees (tuition).  
+
+**Application deadline:** I will begin reviewing applications immediately but the position will stay open until filled.  
+
+**Start date:** As soon as possible.  
+
+**Contact:** To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references to:  
+Dr. Jonathan Tonkin  
+School of Biological Sciences  
+University of Canterbury  
+jonathan.tonkin@canterbury.ac.nz
+
 
 <!-- # Deadline extended! Now closing 24 April 2020.  -->
 
