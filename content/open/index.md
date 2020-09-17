@@ -16,7 +16,7 @@ header:
 
 <!-- No open positions right now. Check back later.  -->
 
-** PhD position available on modelling fish species vulnerability to climate change**  
+**PhD position available on modelling fish species vulnerability to climate change**  
 School of Biological Sciences  
 University of Canterbury, New Zealand  
 Sept 2020
