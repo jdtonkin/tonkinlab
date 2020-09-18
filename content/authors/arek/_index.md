@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's student
+role: Master's student (_Lead supervisor: Michelle LaRue_)
 
 # Organizations/Affiliations
 organizations:
@@ -64,3 +64,4 @@ user_groups:
 - Team
 ---
 
+_Lead supervisor: [Michelle LaRue](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_

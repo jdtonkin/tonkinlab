@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (_Lead supervisor: [James Brasington](https://www.canterbury.ac.nz/science/schools-and-departments/earth-and-environment/contact-us/academic-staff/james-brasington.html)_)
+role: PhD student (_Lead supervisor: James Brasington_)
 
 # Organizations/Affiliations
 organizations:
@@ -62,3 +62,4 @@ user_groups:
 - Team
 ---
 
+_Lead supervisor: [James Brasington](https://www.canterbury.ac.nz/science/schools-and-departments/earth-and-environment/contact-us/academic-staff/james-brasington.html)_

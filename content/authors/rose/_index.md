@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (_Lead supervisor: [Michelle LaRue](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_)
+role: PhD student (_Lead supervisor: Michelle LaRue_)
 
 # Organizations/Affiliations
 organizations:
@@ -74,3 +74,4 @@ In a previous life, I was a flight attendant for Qantas. However, after almost 4
 
 I am extremely motivated, passionate, and excited to continue on this path, aiming to one day work on marine ecology and conservation research in both the Arctic and Antarctica.  
 
+_Lead supervisor: [Michelle LaRue](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_
