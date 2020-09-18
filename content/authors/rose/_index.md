@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student _[In LaRue Lab](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_
 
 # Organizations/Affiliations
 organizations:
