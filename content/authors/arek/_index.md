@@ -11,7 +11,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's student (_Lead supervisor: Michelle LaRue_)
+role: 
+- Master's student (_Lead supervisor: Michelle LaRue_)
 
 # Organizations/Affiliations
 organizations:
