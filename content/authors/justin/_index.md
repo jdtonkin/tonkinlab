@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (_Lead supervisor: James Brasington_)
+role: PhD student (_Lead advisor: James Brasington_)
 
 # Organizations/Affiliations
 organizations:
