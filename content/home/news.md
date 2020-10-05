@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Sept. 2020 » _Paper accepted in Global Change Biology_.** Jono has just had a co-authored paper on taxonomic homogenisation but functional differentiation among stream macroinvertebrate assemblages under climate change. This effort was led by Théophile Mouton. More soon. 
+
 **Aug 2020 » _Paper accepted in Frontiers in Ecology and the Environment_.** Jono has just had a paper on designing flow regimes to support entire river ecosystems accepted for publication in Frontiers in Ecology and the Environment. More soon. 
 
 **June 2020 » _New funding to forecast fish species response to changing flow regimes_.** Jono recently received funding to develop new models to forecast how native NZ fish will respond to climate-induced changes to flow regimes. Stay tuned for a new PhD advertisement coming soon. 
