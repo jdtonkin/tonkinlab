@@ -3,7 +3,7 @@
 title = "Te Pūnaha Matatini Centre of Research Excellence"
 
 # Date this page was created.
-date = 2020-10-12T16:32:42+13:00
+date = 2020-10-11
 
 # Project summary to display on homepage.
 summary = "Achieving sustainable and resilient river ecosystems in Aotearoa under climate change"
