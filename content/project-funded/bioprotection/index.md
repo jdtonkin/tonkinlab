@@ -3,7 +3,7 @@
 title = "Bio-Protection Aotearoa Centre of Research Excellence"
 
 # Date this page was created.
-date = 2020-10-12
+date = 2020-10-12T15:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "Multiple projects: TBA"
