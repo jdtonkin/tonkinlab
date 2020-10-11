@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Oct. 2020 » _Bio-Protection Aotearoa and Te Pūnaha Matatini funded for eight years_.** Last week, the next round of NZ Centres of Research Excellence were announced. Jono is delighted that two of the CoREs he is involved in have been funded for the next eight years: Bio-Protection Aotearoa and Te Pūnaha Matatini. There will be new positions advertised here in the coming months. 
+
 **Sept. 2020 » _Paper accepted in Global Change Biology_.** Jono has just had a co-authored paper on taxonomic homogenisation but functional differentiation among stream macroinvertebrate assemblages under climate change. This effort was led by Théophile Mouton. More soon. 
 
 **Aug 2020 » _Paper accepted in Frontiers in Ecology and the Environment_.** Jono has just had a paper on designing flow regimes to support entire river ecosystems accepted for publication in Frontiers in Ecology and the Environment. More soon. 
