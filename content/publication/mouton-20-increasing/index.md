@@ -1,5 +1,5 @@
 ---
-title: "Increasing Climate-Driven Taxonomic Homogenization but Functional Differentiation among River Macroinvertebrate Assemblages"
+title: "Increasing climate-driven taxonomic homogenization but functional differentiation among river macroinvertebrate assemblages"
 date: 2020-01-01
 publishDate: 2021-02-11T22:36:56.824202Z
 authors: ["T. L. Mouton", "**J. D. Tonkin**", "F. Stephenson", "P. Verburg", "M. Floury"]

@@ -1,5 +1,5 @@
 ---
-title: "Distance Decay of Benthic Macroinvertebrate Communities in a Mountain River Network: Do Dispersal Routes and Dispersal Ability Matter?"
+title: "Distance decay of benthic macroinvertebrate communities in a mountain river network: do dispersal routes and dispersal ability matter?"
 date: 2021-03-01
 publishDate: 2021-02-11T22:36:56.823247Z
 authors: ["Z. Li", "X. Chen", "X. Jiang", "**J. D. Tonkin**", "Z. Xie", "J. Heino"]

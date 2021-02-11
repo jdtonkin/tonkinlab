@@ -1,5 +1,5 @@
 ---
-title: "Revisiting Global Trends in Freshwater Insect Biodiversity"
+title: "Revisiting global trends in freshwater insect biodiversity"
 date: 2021-01-01
 publishDate: 2021-02-11T22:36:56.820792Z
 authors: ["S. C. Jähnig", "V. Baranov", "F. Altermatt", "P. Cranston", "M. Friedrichs-Manthey", "J. Geist", "F. He", "J. Heino", "D. Hering", "F. Hölker", "J. Jourdan", "G. Kalinkat", "J. Kiesel", "F. Leese", "A. Maasri", "M. T. Monaghan", "R. B. Schäfer", "K. Tockner", "**J. D. Tonkin**", "S. Domisch"]

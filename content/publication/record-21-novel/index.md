@@ -1,5 +1,5 @@
 ---
-title: "Novel Insights to Be Gained From Applying Metacommunity Theory to Long-Term, Spatially Replicated Biodiversity Data"
+title: "Novel insights to be gained from applying metacommunity theory to long-term, spatially replicated biodiversity data"
 date: 2021-01-01
 publishDate: 2021-02-11T22:36:56.825114Z
 authors: ["S. Record", "N. M. Voelker", "P. L. Zarnetske", "N. I. Wisnoski", "**J. D. Tonkin**", "C. Swan", "L. Marazzi", "N. Lany", "T. Lamy", "A. Compagnoni", "M. C. N. Castorani", "R. Andrade", "E. R. Sokol"]
