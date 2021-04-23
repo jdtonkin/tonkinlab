@@ -4,11 +4,11 @@
         {{ .Content }}
 
 
-        {{ $publications2 := .Site.Data.pubs }}
+        {{ $publications := .Site.Data.pubs }}
 
         {{ $allyear := newScratch }}
         {{ $idyear := newScratch }}
-        {{ range $publication := $publications2 }}
+        {{ range $publication := $publications }}
             {{ $year := index $publication.issued "date-parts" 0 0 | int }}
             {{ $year2 := index $publication.issued "date-parts" 0 0 | string }}
             {{ $month := index $publication.issued "date-parts" 0 1 | int }}
