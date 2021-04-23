@@ -17,3 +17,7 @@ disable_comments: true
 <!-- </ol> -->
 
 # Published
+
+{% for p in site.data.papers %}
+{% include paper.html %}
+{% endfor %}
