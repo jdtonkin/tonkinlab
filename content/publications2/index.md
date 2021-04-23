@@ -20,6 +20,6 @@ disable_comments: true
 
 <body>
 {% for p in site.data.pubs %}
-{% include paper.html %}
+{% include pubs.html %}
 {% endfor %}
 </body>
