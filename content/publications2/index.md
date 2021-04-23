@@ -1,5 +1,6 @@
 ---
 Title: "Publications2"
+date: "2021-04-20"
 disable_mathjax: true
 disable_highlight: true
 disable_comments: true
@@ -18,8 +19,3 @@ disable_comments: true
 
 # Published
 
-<body>
-{% for p in site.data.pubs %}
-{% include pubs.html %}
-{% endfor %}
-</body>
