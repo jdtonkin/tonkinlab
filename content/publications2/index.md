@@ -18,6 +18,8 @@ disable_comments: true
 
 # Published
 
+<body>
 {% for p in site.data.pubs %}
 {% include paper.html %}
 {% endfor %}
+</body>
