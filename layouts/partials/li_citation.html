@@ -28,12 +28,14 @@
   {{ else if .Params.publication }}
   {{- .Params.publication | markdownify -}}.
   {{ end }}
-  
-  <p href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</p>.
+
+  <p>
+  <a href="{{ .RelPermalink }}" itemprop="name">{{ .Title }}</a>
+  </p>
   
  <p itemprop="author" class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" . }}
-  </p>.
+  </p>
   <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 
   {{ end }}
