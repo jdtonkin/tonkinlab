@@ -2,11 +2,11 @@
 title: "Distance decay of benthic macroinvertebrate communities in a mountain river network: do dispersal routes and dispersal ability matter?"
 date: 2021-03-01
 publishDate: 2021-02-11T22:36:56.823247Z
-authors: ["Z. Li", "X. Chen", "X. Jiang", "**J. D. Tonkin**", "Z. Xie", "J. Heino"]
+authors: ["Z. Li", "X. Chen", "X. Jiang", "J. D. Tonkin", "Z. Xie", "J. Heino"]
 publication_types: ["2"]
 abstract: "Environmental heterogeneity and dispersal limitation are important drivers of beta diversity; however, their relative influence on the two fundamental components of beta diversity (i.e., species replacement and richness difference) has not been fully examined in montane streams. Here, we examined the relative importance of local environmental gradients and three physical distance matrices (i.e., overland, watercourse and cost distances) on beta diversity and its two components for a macroinvertebrate metacommunity in a stream network. To provide additional insights into community assembly, we also analysed variation in two deconstructed sub-communities based on dispersal ability (i.e., weak and strong dispersers). Both environmental filters and physical distances (dispersal limitation) drove patterns of overall beta diversity, with the former generally prevailing over the latter. Species replacement components showed stronger correlations with environmental gradients than physical distances, while the opposite is true for the richness difference components. Overland distances were generally more important than cost and watercourse distances for community dissimilarity of stream macroinvertebrates, implying that lateral dispersal out of stream corridors through flight was the major dispersal route in the studied steam network. As expected, community dissimilarity of strong dispersers was primarily shaped by environmental filtering, while community dissimilarity of weak dispersers was associated with the joint effects of environmental filtering and dispersal limitation. Our findings demonstrate that partitioning overall dissimilarity into species replacement and richness difference provides more insights into the processes driving spatial variability in biological communities compared with the utilization of total beta diversity alone. Our results support the notion that maintaining environmental heterogeneity and natural connectivity of stream networks should be effective measures to conserve regional biodiversity."
 featured: false
-publication: "*Science of The Total Environment*"
+publication: "Science of The Total Environment"
 tags: ["Beta diversity", "Dispersal ability", "Dispersal routes", "Environmental heterogeneity", "Richness difference", "Species replacement"]
 doi: "10.1016/j.scitotenv.2020.143630"
 ---

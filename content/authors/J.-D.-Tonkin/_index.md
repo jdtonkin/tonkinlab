@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jonathan Tonkin
+name: Jonathan D. Tonkin
 weight: 1
 
 # Username (this should match the folder name)
