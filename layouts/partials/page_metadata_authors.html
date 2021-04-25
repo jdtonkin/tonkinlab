@@ -1,29 +1,11 @@
 {{/* Display author list. */}}
 
-<!-- {{ $taxonomy := "authors" }} -->
-<!-- {{ with .Param $taxonomy }} -->
-<!--   {{ range $index, $value := . }} -->
-<!--     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}} -->
-<!--     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}} -->
-<!--     {{- if gt $index 0 }}, {{ end -}} -->
-<!--     <span itemprop="author name" itemtype="http://schema.org/Person"> -->
-<!--       {{- with $profile_page -}} -->
-<!--         <a href="{{.RelPermalink}}">{{$name}}</a> -->
-<!--       {{- else -}} -->
-<!--         {{$name}} -->
-<!--       {{- end -}} -->
-<!--     </span> -->
-<!--   {{- end -}} -->
-<!--     {{ end }} -->
-
-
-    {{ $taxonomy := "authors" }}
+{{ $taxonomy := "authors" }}
 {{ with .Param $taxonomy }}
   {{ range $index, $value := . }}
     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
-{{- if gt $index 0 }}, {{ end -}}
-<!-- {{ if site.Params.team }} -->
+    {{- if gt $index 0 }}, {{ end -}}
     <span itemprop="author name" itemtype="http://schema.org/Person">
       {{- with $profile_page -}}
         <a href="{{.RelPermalink}}">{{$name}}</a>
@@ -32,7 +14,25 @@
       {{- end -}}
     </span>
   {{- end -}}
-{{ end }}
+    {{ end }}
+
+
+<!-- {{ $taxonomy := "authors" }} -->
+<!-- {{ with .Param $taxonomy }} -->
+<!-- {{ range $index, $value := . }} -->
+<!-- {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}} -->
+<!-- {{- $name := $profile_page.Params.name | default ($value|markdownify) -}} -->
+<!-- {{- if gt $index 0 }}, {{ end -}} -->
+<!-- <\!-- {{ if site.Params.team }} -\-> -->
+<!-- <span itemprop="author name" itemtype="http://schema.org/Person"> -->
+<!--   {{- with $profile_page -}} -->
+<!--   <a href="{{.RelPermalink}}">{{$name}}</a> -->
+<!--   {{- else -}} -->
+<!--   {{$name}} -->
+<!--   {{- end -}} -->
+<!-- </span> -->
+<!-- {{- end -}} -->
+<!-- {{ end }} -->
 
 
 
