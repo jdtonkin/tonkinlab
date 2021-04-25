@@ -62,7 +62,7 @@ user_groups:
 - Team
 ---
 
-_Lead supervisor: [Angus McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html_
+_Lead supervisor: [Angus McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_
 
 
 More to come. 
