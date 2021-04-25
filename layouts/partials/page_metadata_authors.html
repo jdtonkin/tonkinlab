@@ -19,7 +19,7 @@
 
 
 
-{{ if Site.Params.team.jt }} <!-- Create a link for authors of the publication -->
+{{ if site.Params.team.jt }} <!-- Create a link for authors of the publication -->
   <a href="{{.RelPermalink}}">{{$name}}</a>
 {{- else -}}
   <a>{{$name}}</a>
