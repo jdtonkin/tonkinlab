@@ -10,7 +10,7 @@
       {{- with $profile_page -}}
       {{ if .File }}
       <a href="{{.RelPermalink}}">{{$name}}</a>
-      {{ end }}
+      {{- end -}}
       {{- else -}}
         {{$name}}
       {{- end -}}
