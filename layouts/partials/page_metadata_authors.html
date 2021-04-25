@@ -9,7 +9,8 @@
     <span itemprop="author name" itemtype="http://schema.org/Person">
       {{- with $profile_page -}}
       {{ if .File }}
-        <a href="{{.RelPermalink}}">{{$name}}</a>
+      <a href="{{.RelPermalink}}">{{$name}}</a>
+      {{ end }}
       {{- else -}}
         {{$name}}
       {{- end -}}
