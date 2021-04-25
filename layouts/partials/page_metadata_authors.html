@@ -2,21 +2,23 @@
 
 {{ $taxonomy := "authors" }}
 {{ with .Param $taxonomy }}
-  {{ range $index, $value := . }}
-    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
-    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+{{ range $index, $value := . }}
+{{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+{{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
 {{- if gt $index 0 }}, {{ end -}}
-    <span itemprop="author name" itemtype="http://schema.org/Person">
-      {{- with $profile_page -}}
-      {{ if .File }}
-      <a href="{{.RelPermalink}}">{{$name}}</a>
-      {{- else -}}
-        {{$name}}
-      {{- end -}}
-      {{- end -}}
-    </span>
+<span itemprop="author name" itemtype="http://schema.org/Person">
+  {{- with $profile_page -}}
+  {{ if .File }}
+  <b>
+    <a href="{{.RelPermalink}}" style="color: #C28542">{{$name}}</a>
+  </b>
+  {{- else -}}
+  {{$name}}
   {{- end -}}
-    {{ end }}
+  {{- end -}}
+</span>
+{{- end -}}
+{{ end }}
 
 
 
