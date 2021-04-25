@@ -5,7 +5,7 @@ weight: 201
 
 # Username (this should match the folder name)
 authors:
-- rose
+- R.-T.-N.-Foster
 
 # Is this the primary user of the site?
 superuser: false

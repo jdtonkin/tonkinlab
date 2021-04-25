@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Justin Rogers 
-weight: 205
+name: Olivia Hore 
+weight: 402
 
 # Username (this should match the folder name)
 authors:
-- justin
+- H.-Hore
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (_lead supervised by [J. Brasington](https://www.canterbury.ac.nz/science/schools-and-departments/earth-and-environment/contact-us/academic-staff/james-brasington.html)_)
+role: Master's student (_lead supervised by [A. McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_)
 
 # Organizations/Affiliations
 organizations:
@@ -62,4 +62,7 @@ user_groups:
 - Team
 ---
 
-_Lead supervisor: [James Brasington](https://www.canterbury.ac.nz/science/schools-and-departments/earth-and-environment/contact-us/academic-staff/james-brasington.html)_
+_Lead supervisor: [Angus McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html_
+
+
+More to come. 
