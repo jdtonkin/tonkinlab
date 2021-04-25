@@ -194,5 +194,6 @@ sharing = true
     index_name = ""
     show_logo = false
 
-[team]
-jt = "J. D. Tonkin"
+team = ["J. D. Tonkin"]
+
+

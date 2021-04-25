@@ -14,13 +14,45 @@
 <!--       {{- end -}} -->
 <!--     </span> -->
 <!--   {{- end -}} -->
-<!-- {{ end }} -->
+<!--     {{ end }} -->
+
+
+    {{ $taxonomy := "authors" }}
+{{ with .Param $taxonomy }}
+  {{ range $index, $value := . }}
+    {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
+    {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}
+{{- if gt $index 0 }}, {{ end -}}
+{{ if site.Params.team }}
+    <span itemprop="author name" itemtype="http://schema.org/Person">
+      {{- with $profile_page -}}
+        <a href="{{.RelPermalink}}">{{$name}}</a>
+      {{- else -}}
+        {{$name}}
+      {{- end -}}
+    </span>
+  {{- end -}}
+{{ end }}
 
 
 
 
-{{ if site.Params.team.jt }} <!-- Create a link for authors of the publication -->
-  <a href="{{.RelPermalink}}">{{$name}}</a>
-{{- else -}}
-  <a>{{$name}}</a>
-{{- end -}}
+<!-- <div class="authors"> -->
+<!--         {{ range $author := .author }} -->
+<!--           {{ if (and (eq $author.family "Li") (eq $author.given "Daijiang")) }} -->
+<!--              <span class="family"><b>Li D.</b>,</span> -->
+<!--           {{ else }} -->
+<!--         <span class="family">{{ $author.family }}</span> -->
+<!--         <span class="given">{{ range $names := split $author.given " " }} -->
+<!--             {{ substr $names 0 1 }}.{{ end }},</span> -->
+<!--          {{ end }} -->
+<!--         {{ end }} -->
+<!--     </div>     -->
+
+    
+
+<!-- {{ if site.Params.team }} <\!-- Create a link for authors of the publication -\-> -->
+<!--   <a href="{{.RelPermalink}}">{{$name}}</a> -->
+<!-- {{- else -}} -->
+<!--   <a>{{$name}}</a> -->
+<!-- {{- end -}} -->
