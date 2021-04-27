@@ -10,5 +10,6 @@ publication: "Nature Ecology and Evolution"
 url_pdf: "https://doi.org/10.1038/s41559-017-0379-0"
 doi: "10.1038/s41559-017-0379-0"
 projects: ['flow-eco', 'forecasting', 'networks', 'global-change']
+summary: "We employed a combination of population modelling and network theory to explore the consequences of possible flow regime futures on riparian plant communities, including scenarios of increased drought, flooding and flow homogenization (removal of flow variability). We found that even slight modifications to the historic natural flow regime had significant consequences for the structure of riparian plant networks."
 ---
 
