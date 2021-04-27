@@ -16,6 +16,7 @@ image:
   caption: 'Native cottonwoods are being displaced by non-native salt cedar in the Dolores River, Utah, owing to flow alteration by damming. Credit: Mark Uliasz/Alamy'
   focal_point: ""
   preview_only: false
+  placement: 1
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
