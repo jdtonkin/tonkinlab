@@ -10,5 +10,6 @@ publication: "Ecology"
 url_pdf: "https://doi.org/10.1002/ecy.1761"
 doi: "10.1002/ecy.1761"
 projects: ['env-variability']
+summary: "Drawing on tools from wavelet analysis and information theory, we developed a framework for quantifying both seasonality and predictability of habitats, and applied this using global long-term rainfall data. Our analysis predicted that temporal beta diversity should be maximized in highly predictable and highly seasonal climates, and that low degrees of seasonality, predictability, or both would lower diversity in characteristic ways."
 ---
 
