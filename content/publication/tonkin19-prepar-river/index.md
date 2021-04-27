@@ -13,7 +13,7 @@ doi: "10.1038/d41586-019-01877-1"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Unsplash](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Native cottonwoods are being displaced by non-native salt cedar in the Dolores River, Utah, owing to flow alteration by damming. Credit: Mark Uliasz/Alamy'
   focal_point: ""
   preview_only: false
 
