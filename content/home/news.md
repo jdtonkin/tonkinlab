@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Apr. 2021 » _Opening PhD call up to international students_.** I have a new PhD position available on forecasting fish species vulnerability to climate change. Please see the opportunities page. 
+
 **Feb. 2021 » _Several new publications added_.** Jono has been involved in several new papers that have come out (now uploaded to the website), including work highlighting the benefits of long-term spatially replicated datasets for advancing metacommunity theory and issues surrounding assigning causal drivers of long-term trends in insect abundances.  
 
 **Oct. 2020 » _Bio-Protection Aotearoa and Te Pūnaha Matatini funded for eight years_.** Last week, the next round of NZ Centres of Research Excellence were announced. Jono is delighted that two of the CoREs he is involved in have been funded for the next eight years: Bio-Protection Aotearoa and Te Pūnaha Matatini. There will be new positions advertised here in the coming months. 
