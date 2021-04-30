@@ -19,9 +19,9 @@ header:
 **PhD position available on modelling fish species vulnerability to climate change**  
 School of Biological Sciences  
 University of Canterbury, New Zealand  
-Sept 2020
+April 2021
 
-NOTE: Due to the COVID-19 border restrictions, I am initially limiting the search to NZ residents/citizens.  
+NOTE: **NOW OPEN TO ALL CANDIDATES**. I initially limited the search to NZ residents/citizens. However, this is now open to all candidates worldwide.  
 
 The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstanding applicants for one fully-funded PhD scholarship in quantitative population and community ecology. For this project, we seek to generate near-term forecasts and long-term projections of fish population and community responses to changing flow regimes. We intend to develop a combination of mechanistic and statistical modelling approaches that will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers. Candidates are also given considerable intellectual freedom to pursue their individual interests in alignment with the project. 
 
@@ -33,9 +33,9 @@ The Tonkin Lab at the University of Canterbury, New Zealand is seeking outstandi
 
 **Funding:** The 3-year scholarship provides an annual stipend of NZD$27,500 (tax free) and covers full university fees (tuition).  
 
-**Application deadline:** I will begin reviewing applications immediately but the position will stay open until filled.  
+**Application deadline:** 26 May 2021.  
 
-**Start date:** As soon as possible.  
+**Start date:** As soon as possible, depending on entrance into NZ for overseas candidates.  
 
 **Contact:** To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references to:  
 Dr. Jonathan Tonkin  
