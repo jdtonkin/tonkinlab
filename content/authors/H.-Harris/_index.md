@@ -65,4 +65,8 @@ user_groups:
 _Lead supervisor: [Angus McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_
 
 
-More to come. 
+I am from Canterbury, New Zealand and grew up in and love outdoor environments from the mountains to the sea for recreation, aesthetics, and the many other ways they provide and add to our lives.  
+  
+I have a B.Sc.(Hons) first class in ecology, supervised by Professor Dave Kelly. My thesis was investigating an invasive species range shift over 13 years of monitoring, and how it may be associated to environmental drivers such as warming temperatures, predator-release, or mast seeding dynamics in alpine beech forests. I have also worked in several biodiversity monitoring roles, from freshwater to terrestrial monitoring, and from this I learnt to really appreciate long-term large datasets the knowledge we can derive from them.  
+  
+I’m interested in trends in time and space and like to think at a large scale. Investigating how perturbations in an environment will change systems is especially interesting to me.  I like the challenge of trying to understand how multiple systems are connected to predict cascading effects of perturbations across multiple scales and environments. 
