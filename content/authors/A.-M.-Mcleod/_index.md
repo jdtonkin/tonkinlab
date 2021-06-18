@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming Postdoc
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:

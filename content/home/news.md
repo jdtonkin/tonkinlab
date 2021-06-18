@@ -20,6 +20,12 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Jun. 2021 » _Welcome Anne!_** We're delighted to welcome Anne Mcleod to the team as a Postdoc. Anne will be collaborating with Jono on some exciting new community theory modelling spanning from metacommunity models to food web models to ecosystem models. 
+
+**Jun. 2021 » _Paper out on hydropeaking effects in the Colorado River._** Thanks to Erin for leading this great work! 
+
+**May 2021 » _New paper in Frontiers in Ecology and the Environment._** Jono's paper on designing flow regimes to support entire river ecosystems is now out in Frontiers. Thanks to the great coauthors: Dave Lytle, Julian Olden, Dave Merritt, Lindsay Reynolds and Jane Rogosch! 
+
 **Apr. 2021 » _Opening PhD call up to international students_.** I have a new PhD position available on forecasting fish species vulnerability to climate change. Please see the opportunities page. 
 
 **Feb. 2021 » _Several new publications added_.** Jono has been involved in several new papers that have come out (now uploaded to the website), including work highlighting the benefits of long-term spatially replicated datasets for advancing metacommunity theory and issues surrounding assigning causal drivers of long-term trends in insect abundances.  
