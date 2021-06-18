@@ -4,12 +4,12 @@ title: Hydropeaking intensity and dam proximity limit aquatic invertebrate diver
 date: '2021-06-01'
 publishDate: '2021-06-18T08:47:52.513567Z'
 authors:
-- Erin F. Abernethy
-- Jeffrey D. Muehlbauer
-- Theodore A. Kennedy
-- Jonathan D. Tonkin
-- Richard Van Driesche
-- David A. Lytle
+- E. F. Abernethy
+- J. D. Muehlbauer
+- T. A. Kennedy
+- J. D. Tonkin
+- R. Van Driesche
+- D. A. Lytle
 publication_types:
 - '2'
 abstract: Abstract River biodiversity is threatened globally by hydropower dams, and

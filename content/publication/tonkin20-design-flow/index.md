@@ -3,12 +3,12 @@ title: Designing flow regimes to support entire river ecosystems
 date: '2021-05-01'
 publishDate: '2021-06-18T08:38:13.746286Z'
 authors:
-- Jonathan D. Tonkin
-- Julian D. Olden
-- David. M. Merritt
-- Lindsay V. Reynolds
-- Jane S. Rogosch
-- David A. Lytle
+- J. D. Tonkin
+- J. D. Olden
+- D.. M. Merritt
+- L. V. Reynolds
+- J. S. Rogosch
+- D. A. Lytle
 publication_types:
 - '2'
 abstract: 'Overcoming challenges of water scarcity necessitates creative flow management
