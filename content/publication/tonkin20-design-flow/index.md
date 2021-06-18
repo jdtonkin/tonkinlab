@@ -32,7 +32,7 @@ projects: ['flow-eco', 'forecasting', 'restoration', 'global-change']
 publication: '*Frontiers in Ecology and the Environment*'
 url_pdf: https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.2348
 doi: https://doi.org/10.1002/fee.2348
-
+summary: 'We explored cross‐ecosystem effects of environmental flow regimes designed to benefit focal groups of plants, fishes, and invertebrates. We found tradeoffs among different regimes with narrow targets, including causing non‐target taxa to become locally extirpated within decadal timespans.'
 image:
   caption: 'Ecosystem-wide tradeoffs associated with targeted river flow regimes.'
   focal_point: "Center"
