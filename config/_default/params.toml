@@ -77,7 +77,7 @@ address = "School of Biological Sciences, University of Canterbury, Private Bag 
 office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/jdtonkin"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
