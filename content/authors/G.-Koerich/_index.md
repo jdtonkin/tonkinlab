@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Gabrielle Koerich 
-weight: 203
+weight: 201
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: _Incoming_ PhD student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:

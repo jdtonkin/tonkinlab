@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Jul. 2021 » _Welcome Gabrielle!_** We're delighted to welcome Gabrielle Koerich to the team as a PhD student. Gabrielle will be working with Jono on forecasting species responses to climate change in the Ross Sea Region of Antarctica, as part of the Antarctic Science Platform. 
+
 **Jun. 2021 » _Welcome Anne!_** We're delighted to welcome Anne Mcleod to the team as a Postdoc. Anne will be collaborating with Jono on some exciting new community theory modelling spanning from metacommunity models to food web models to ecosystem models. 
 
 **Jun. 2021 » _Paper out on hydropeaking effects in the Colorado River._** Thanks to Erin for leading this great work! 
