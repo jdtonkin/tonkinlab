@@ -71,8 +71,8 @@ My journey started at the Complutense University of Madrid, Spain, my country of
 
 I am deeply intrigued by how Anthropogenic accelerated climate change is affecting global biodiversity and how it is adapting and overcoming the impending challenges, particularly in freshwater ecosystems. Hopefully, this knowledge will help local, regional or global governments issue laws to protect these fragile and already damaged ecosystems. I am enthused about joining Jono’s lab as a Ph.D. student to do so. My project will focus on freshwater fish vulnerability under climate change and will also forecast this vulnerability into the future using projected emissions' scenarios.  
 
-Interests
-- Climate change and biodiversity
-- Conservation biology
-- Stochastic and mechanistic modeling
-- Freshwater ecosystems
+Interests  
+- Climate change and biodiversity  
+- Conservation biology  
+- Stochastic and mechanistic modeling  
+- Freshwater ecosystems  
