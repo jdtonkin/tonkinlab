@@ -63,7 +63,7 @@ subtitle = ""
 <a href="/open">
 <button style="background-color:white; border-radius:5px; padding:8px 20px; border: 2px solid #285F75; ">
 <font color="#285F75">
-<i class="fas fa-exclamation-circle"></i> &nbsp; <b>Position available!</b> Click here.
+<i class="fas fa-exclamation-circle"></i> &nbsp; <b>Multiple positions available!</b> Click here.
 </font>
 </button>
 </a>
