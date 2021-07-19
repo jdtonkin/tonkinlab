@@ -38,9 +38,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:ama548@uclive.ac.nz #'#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/jdtonkin
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/IgReyeSainz
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: 
@@ -65,4 +65,14 @@ user_groups:
 - Team
 ---
 
-More soon...
+
+
+My journey started at the Complutense University of Madrid, Spain, my country of origin, where I studied a BSc in Biology with a specialization in environmental biology. During my degree, I joined a fauna monitoring group where I developed a love for freshwater ecosystems, focusing on odonates. With them, I wrote my bachelor’s thesis about historic changes in wing morphology of males of *Sympetrum fonscolombii* using geometric morphometry. After my BSc, I was intrigued by how climate change is affecting biodiversity on a global scale, so I carried out an MSc in climate change at the University of Copenhagen, Denmark. There, I focused on macroecological and, more specifically, on freshwater ecosystem processes. My master’s thesis studied how European odonates’ thermal niches varied historically using the Community Temperature Index as a proxy for thermal niches and implementing machine learning models.  
+
+I am deeply intrigued by how Anthropogenic accelerated climate change is affecting global biodiversity and how it is adapting and overcoming the impending challenges, particularly in freshwater ecosystems. Hopefully, this knowledge will help local, regional or global governments issue laws to protect these fragile and already damaged ecosystems. I am enthused about joining Jono’s lab as a Ph.D. student to do so. My project will focus on freshwater fish vulnerability under climate change and will also forecast this vulnerability into the future using projected emissions' scenarios.  
+
+Interests
+- Climate change and biodiversity
+- Conservation biology
+- Stochastic and mechanistic modeling
+- Freshwater ecosystems
