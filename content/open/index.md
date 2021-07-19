@@ -67,6 +67,8 @@ Applications for the PhD position should be emailed to jason.tylianakis@canterbu
 
 **The closing date for these positions is: 21 August 2021 (midnight, NZ time)**
 
+**NOTE: THESE ARE OPEN TO ALL INTERNATIONAL CANDIDATES.**
+
 ### Important notice
 In response to COVID-19 the New Zealand Government have imposed travel restrictions and in addition, all those that enter the country must currently enter Government-approved isolation/quarantine for two weeks upon arrival. You can find more information on the New Zealand [Immigration website](https://www.immigration.govt.nz/about-us/covid-19). 
 
