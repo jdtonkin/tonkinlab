@@ -30,7 +30,11 @@ We are always on the lookout for motivated students and postdocs to join the gro
 
 
 ## Postdoctoral researchers
-We don't currently have any funded opportunities for postdoctoral researchers, but very much welcome inquiries. If you're interested in joining the group, please do get in touch with Jono with an outline of your proposed research and a CV. Funding for postdocs in New Zealand is pretty limited, so it may be best to seek funding from your home country. Jono can help put together a proposal for external funding. Any positions that do come available will be clearly advertised.  
+
+<font color="#C28542">
+<i class="fas fa-exclamation-circle"></i> &nbsp; Position available!</font> Advertisement [here](/open).
+
+If we don't currently have any funded opportunities for postdoctoral researchers, we very much welcome inquiries. If you're interested in joining the group, please do get in touch with Jono with an outline of your proposed research and a CV. Funding for postdocs in New Zealand is pretty limited, so it may be best to seek funding from your home country. Jono can help put together a proposal for external funding. Any positions that do come available will be clearly advertised.  
 
 ## Graduate students
 
