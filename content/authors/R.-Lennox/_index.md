@@ -68,9 +68,9 @@ user_groups:
 
 My interest in natural systems started from a young age. Growing up in South Africa, I was captivated by nature and the different ways it presents itself. My academic career began in 2017 when I started my Bachelor’s degree here at UC. After completing a BSc majoring in Ecology, I had the opportunity to complete an internship with the Freshwater Ecology Research Group over the summer of 2019-2020. During these few months, I worked as a research assistant on Channell Thoms' PhD project investigating the size and age distribution of declining kākahi, or freshwater mussels, in rivers across Canterbury and the lower South Island. This gave me a first-hand taste of applying ecology to better inform the conservation of a native species, and confirmed my decision to return to pursue postgrad research. I have joined the Tonkin Lab as a Master’s student with particular interest in how interactions between trout and non-migratory galaxiids vary along a disturbance gradient. Through climate change and water abstraction, humans are rapidly altering the natural timing and severity of disturbances in freshwater environments. Our understanding of how these processes work and their implications for freshwater communities can better inform management decisions in the future. My research will be supervised by Jono Tonkin (lead) and Angus McIntosh (associate) with plans to begin the project at the end of 2021. 
 
-Interests:
-- Freshwater Ecology
-- Anthropogenic influence
-- Restoration
-- Conservation Management
+Interests:  
+- Freshwater ecology  
+- Anthropogenic influence  
+- Restoration  
+- Conservation management
 

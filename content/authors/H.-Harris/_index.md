@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Holly Harris 
-weight: 401
+weight: 211
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UC Aho Hīnātore Project student (_lead supervised by [A. McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_)
+role: PhD student (_lead supervised by [A. McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_)
 
 # Organizations/Affiliations
 organizations:

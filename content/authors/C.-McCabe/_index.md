@@ -1,30 +1,29 @@
 ---
 # Display name
-name: Arek Aspinwall 
-weight: 100
+name: Christina McCabe 
+weight: 403
 
 # Username (this should match the folder name)
 authors:
-- A.-Aspinwall
+- C.-McCabe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master's student (_lead supervised by [M. LaRue](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_)
+role: Master's student (_lead supervised by [C. Mattaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Canterbury
+- name: University of Otago
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Population Dynamics
-- Avian Ecology
-- Anthrome-ecosystem interactions
+
+
 
 # education:
 #  courses:
@@ -37,9 +36,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:ama548@uclive.ac.nz #'#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/jdtonkin
@@ -61,7 +60,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Team
 ---
 
-_Lead supervisor: [Michelle LaRue](https://www.canterbury.ac.nz/science/contact-us/people/michelle-larue.html)_
+_Lead supervisor [C. Mattaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_
+
+To come. 
