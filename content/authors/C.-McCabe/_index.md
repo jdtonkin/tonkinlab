@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's student (_lead supervised by [C. Mattaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_)
+role: Master's student (_lead supervised by [C. Matthaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_)
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,11 @@ organizations:
 bio: 
 
 interests:
-
+- Community ecology; landscape ecology
+- Spatial and temporal relationships
+- GIS and Remote Sensing
+- Fluvial geomorphology
+- Invasion ecology
 
 
 # education:
@@ -63,6 +67,11 @@ user_groups:
 - Team
 ---
 
-_Lead supervisor [C. Mattaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_
+_Lead supervisor [C. Matthaei](https://www.otago.ac.nz/zoology/staff/matthaei.html)_
 
-To come. 
+I’ve recently completed a Bachelor of Science, with a double major in Environmental Science and Geography, from Massey University. Throughout this study, I was heavily influenced by my surroundings in Queenstown (especially my love for the dynamic and awe-inspiring braided rivers) and found myself gravitating toward freshwater ecology and fluvial geomorphology. I am now undertaking a Master of Science (Ecology) based at the University of Otago, and I am privileged to also be joining the Tonkin Lab for research supervision.  
+  
+I have worked as a graphic designer for about ten years, and I bring experience with systems thinking and visual communication to my work in ecology. In particular, this has contributed to an aptitude toward using geographic information systems for analysis, and an attraction to spatial relationships and patterns.  
+  
+I am especially interested in community ecology, landscape ecology and connections through space and time, and I aspire to contribute to conservation and restoration science in Aotearoa New Zealand. The study of invasion dynamics is somewhat an amalgamation of these interests, and I am excited to be pursuing this field of research with my Master’s thesis on the effects of invasive plants on ecological health and connectivity in braided rivers.
+
