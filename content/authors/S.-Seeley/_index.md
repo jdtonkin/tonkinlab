@@ -22,7 +22,6 @@ organizations:
 bio: 
 
 interests:
-TBC
 
 
 # education:
