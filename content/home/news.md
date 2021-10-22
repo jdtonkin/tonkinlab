@@ -20,7 +20,13 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
-**Jul. 2021 » New positions available!** We have two positions currently available in the same project: (working with Jason Tylianakis) one Postdoc and one PhD. Check out our vacancies page for these positions on metacommunity and evolutionary drivers of resilience.
+**Oct. 2021 » New PhD position available!** We have a PhD position currently available jointly with Jason Tylianakis. Check out our vacancies page for this position on metacommunity and evolutionary drivers of resilience.
+
+**Oct. 2021 » Congratulations Arek!** Congratulations to Arek Aspinwall who recently passed his Master's project with flying colours. 
+
+**Oct. 2021 » New paper on applying metacommunity theory to river management** Very happy to see this group paper led by Chris Patrick out on the application of metacommunity theory to the management of riverine ecosystems. Lots to be learned from metacommunity theory to help us manage freshwater systems better.
+
+**Jul. 2021 » New positions available!** We have two positions currently available in the same project: (working with Jason Tylianakis) one Postdoc and one PhD. 
 
 **Jul. 2021 » Jono on TVNZ Breakfast talking about the CBD Post-2020 Biodiversity Framework.** Jono talked to John Campbell on Breakfast TV about the latest UN Convention on Biological Diversity's draft Post-2020 Biodiversity Framework.  
 
