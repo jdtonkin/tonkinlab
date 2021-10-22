@@ -17,9 +17,9 @@ header:
 <!-- No open positions right now. Check back later.  -->
 
 
-## Positions 1: PhD student in metacommunity and evolutionary drivers of resilience
+## Position 1: PhD student in metacommunity and evolutionary drivers of resilience
 
-School of Biological Sciences 
+School of Biological Sciences  
 University of Canterbury, New Zealand
 
 ### About the project
@@ -64,7 +64,7 @@ In response to COVID-19 the New Zealand Government have imposed travel restricti
 
 --------
 
-## Position 3: Open call for PhD student in NZ or Australia. 
+## Position 2: Open call for PhD student in NZ or Australia. 
 
 If you are a New Zealand or Australian citizen and are looking for a PhD position, please do get in touch. I have a fully-funded, open-themed PhD scholarship available. Given the COVID-19 situation and the desire to fill this position rapidly, I am currently limiting the scope to NZ and Australian citizens (but this may change). If you find the themes of the lab's research interesting, I am happy to talk to you about projects in the area of population and community ecology. 
 
