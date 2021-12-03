@@ -55,9 +55,7 @@ To apply, please provide a cover letter that addresses your research interests a
 
 Applications for the PhD position should be emailed to jason.tylianakis@canterbury.ac.nz  with “PhD in eco-evo dynamics” in the subject line of your email.
 
-**The closing date for this position is: 19 November 2021 (midnight, NZ time)**
-
-**NOTE: THESE ARE OPEN TO ALL INTERNATIONAL CANDIDATES.**
+**NOTE: THIS IS OPEN TO ALL INTERNATIONAL CANDIDATES.**
 
 ### Important notice
 In response to COVID-19 the New Zealand Government have imposed travel restrictions and in addition, all those that enter the country must currently enter Government-approved isolation/quarantine for two weeks upon arrival. You can find more information on the New Zealand [Immigration website](https://www.immigration.govt.nz/about-us/covid-19). 
