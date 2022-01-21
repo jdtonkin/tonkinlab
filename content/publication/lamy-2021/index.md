@@ -5,19 +5,19 @@ draft: false
 publishDate: '2022-01-21T03:19:59.150795Z'
 authors:
 - T. Lamy
-- N.I. Wisnoski
+- N. I. Wisnoski
 - R. Andrade
-- M.C.N. Castorani
+- M. C. N. Castorani
 - A. Compagnoni
 - N. Lany
 - L. Marazzi
 - S. Record
-- C.M. Swan
-- J.D. Tonkin
+- C. M. Swan
+- J. D. Tonkin
 - N. Voelker
 - S. Wang
-- P.L. Zarnetske
-- E.R. Sokol
+- P. L. Zarnetske
+- E. R. Sokol
 publication_types:
 - '2'
 abstract: 'There is increasing interest in measuring ecological stability to understand
