@@ -20,6 +20,10 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**Jan. 2022 » A new global agenda for advancing freshwater biodiversity research.** Jono was recently involved in a large global effort to come up with a new agenda for freshwater biodiversity research. "The proposed agenda aims to advance freshwater biodiversity research globally as a critical step in improving coordinated actions towards its sustainable management and conservation." See [publication](https://tonkinlab.org/publication/maasri-2021/). Thanks to Alain and Sonja for leading this important effort.
+
+**Dec. 2021 » Welcome Nacho!** We're delighted to officially welcome Ignacio (Nacho) Reyes to the team as a PhD student. Nacho will be focusing on forecasting freshwater fish population and community responses to future change. Find Nacho [here](https://tonkinlab.org/authors/i.-reyes/).  
+
 **Oct. 2021 » New PhD position available!** We have a PhD position currently available jointly with Jason Tylianakis. Check out our vacancies page for this position on metacommunity and evolutionary drivers of resilience.
 
 **Oct. 2021 » Congratulations Arek!** Congratulations to Arek Aspinwall who recently passed his Master's project with flying colours. 
