@@ -24,6 +24,8 @@ subtitle = ""
 
 **Dec. 2021 » Welcome Nacho!** We're delighted to officially welcome Ignacio (Nacho) Reyes to the team as a PhD student. Nacho will be focusing on forecasting freshwater fish population and community responses to future change. Find Nacho [here](https://tonkinlab.org/authors/i.-reyes/).  
 
+**Nov. 2021 » Fish futures MBIE programme kicks off.** We're excited to have our recently funded Fish future MBIE Endeavour Programme kick off this month led by the Cawthron Institute. Fish futures: preparing for novel freshwater ecosystems is a five-year project that will address the increasing stress on Aotearoa New Zealand’s freshwater fish from pressures such as human activity, climate change, pollution and threats from other species.
+
 **Oct. 2021 » New PhD position available!** We have a PhD position currently available jointly with Jason Tylianakis. Check out our vacancies page for this position on metacommunity and evolutionary drivers of resilience.
 
 **Oct. 2021 » Congratulations Arek!** Congratulations to Arek Aspinwall who recently passed his Master's project with flying colours. 
