@@ -11,13 +11,7 @@ bio:
 
 highlight_name: yes
 
-interests:
-<!-- -  Community Ecology &nbsp; <i class="fa fa-leaf" style="color:grey"></i> -->
-<!-- -  Biotic interactions  &nbsp; <i class="fa fa-project-diagram" style="color:grey"></i> -->
-<!-- -  Metacommunity theory &nbsp; <i class="fa fa-th" style="color:grey"></i> -->
-<!-- -  Freshwater ecosystems &nbsp; <i class="fa fa-tint" style="color:grey"></i> -->
-<!-- -  R programming  &nbsp; <i class="fa fa-laptop-code" style="color:grey"></i> -->
-<!-- -  Data visualization &nbsp;  <i class="fa fa-chart-bar" style="color:grey"></i> -->
+#interests:
 
 
 organizations:
