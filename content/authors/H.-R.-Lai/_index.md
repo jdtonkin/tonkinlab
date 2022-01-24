@@ -29,7 +29,7 @@ role: Incoming Postdoctoral Fellow
 
 - icon: envelope
   icon_pack: fas
-  link:  haoran.lai@canterbury.ac.nz 
+  link:  mailto:haoran.lai@canterbury.ac.nz 
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/jdtonkin
