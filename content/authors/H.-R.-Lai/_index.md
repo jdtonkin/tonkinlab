@@ -42,7 +42,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Hao-Ran-Lai
 - icon: globe
-  icon_pack: fab
+  icon_pack: fas
   link: https://hrlai.netlify.app/
 
 
