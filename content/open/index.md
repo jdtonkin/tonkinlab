@@ -68,7 +68,7 @@ If you are a New Zealand or Australian citizen and are looking for a PhD positio
 
 Potential co-supervisors include, but are not limited to, existing collaborators such as [Julian Olden](https://depts.washington.edu/oldenlab/), [Dave Lytle](https://lytlelab.science.oregonstate.edu/), [Jason Tylianakis](https://www.tylianakislab.org/). 
 
-
+--------
 
 ## Position 3: Postdoctoral Fellow
 
