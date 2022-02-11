@@ -17,7 +17,7 @@ highlight_name: yes
 organizations:
 - name: University of Canterbury
   url: 
-role: Incoming Postdoctoral Fellow
+role: Postdoctoral Fellow
 
 
 social:
