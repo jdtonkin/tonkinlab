@@ -57,30 +57,30 @@ Applications for the PhD position should be emailed to jason.tylianakis@canterbu
 
 **NOTE: THIS IS OPEN TO ALL INTERNATIONAL CANDIDATES.**
 
-### Important notice
-In response to COVID-19 the New Zealand Government have imposed travel restrictions and in addition, all those that enter the country must currently enter Government-approved isolation/quarantine for two weeks upon arrival. You can find more information on the New Zealand [Immigration website](https://www.immigration.govt.nz/about-us/covid-19). 
+Note: In response to COVID-19 the New Zealand Government imposed travel restrictions, however, from 11:59pm on Friday 4 March, fully vaccinated New Zealand citizens, residents, and eligible travellers from the rest of the world will no longer have to self-isolate on arrival.
 
---------
 
-## Position 2: Open call for PhD student in NZ or Australia. 
+<!-- -------- -->
 
-If you are a New Zealand or Australian citizen and are looking for a PhD position, please do get in touch. I have a fully-funded, open-themed PhD scholarship available. Given the COVID-19 situation and the desire to fill this position rapidly, I am currently limiting the scope to NZ and Australian citizens (but this may change). If you find the themes of the lab's research interesting, I am happy to talk to you about projects in the area of population and community ecology. 
+<!-- ## Position 2: Open call for PhD student in NZ or Australia.  -->
 
-Potential co-supervisors include, but are not limited to, existing collaborators such as [Julian Olden](https://depts.washington.edu/oldenlab/), [Dave Lytle](https://lytlelab.science.oregonstate.edu/), [Jason Tylianakis](https://www.tylianakislab.org/). 
+<!-- If you are a New Zealand or Australian citizen and are looking for a PhD position, please do get in touch. I have a fully-funded, open-themed PhD scholarship available. Given the COVID-19 situation and the desire to fill this position rapidly, I am currently limiting the scope to NZ and Australian citizens (but this may change). If you find the themes of the lab's research interesting, I am happy to talk to you about projects in the area of population and community ecology.  -->
 
---------
+<!-- Potential co-supervisors include, but are not limited to, existing collaborators such as [Julian Olden](https://depts.washington.edu/oldenlab/), [Dave Lytle](https://lytlelab.science.oregonstate.edu/), [Jason Tylianakis](https://www.tylianakislab.org/).  -->
 
-## Position 3: Postdoctoral Fellow
+<!-- -------- -->
 
-We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. By developing a combination of mechanistic, statistical and hybrid modelling approaches we will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers and robust to hydro-climatic nonstationarity.
+<!-- ## Position 3: Postdoctoral Fellow -->
 
-For background, see also:
+<!-- We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. By developing a combination of mechanistic, statistical and hybrid modelling approaches we will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers and robust to hydro-climatic nonstationarity. -->
 
-Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, J. S. Rogosch, and D. A. Lytle. (2021). Designing flow regimes to support entire river ecosystems. Frontiers in Ecology and the Environment. 19:326-333.
-Tonkin, J. D., N. L. Poff, N. R. Bond, A. Horne, David. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. (2019). Prepare river ecosystems for an uncertain future. Nature. 570:301-303.
-Tonkin, J. D., Olden, J. D., Merritt, D. M., Reynolds, L. V. & Lytle, D. A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93.
+<!-- For background, see also: -->
 
-Job ad [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Post-Doctoral-Fellow-Te-P%C5%ABnaha-Matatini,8304). 
+<!-- Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, J. S. Rogosch, and D. A. Lytle. (2021). Designing flow regimes to support entire river ecosystems. Frontiers in Ecology and the Environment. 19:326-333. -->
+<!-- Tonkin, J. D., N. L. Poff, N. R. Bond, A. Horne, David. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. (2019). Prepare river ecosystems for an uncertain future. Nature. 570:301-303. -->
+<!-- Tonkin, J. D., Olden, J. D., Merritt, D. M., Reynolds, L. V. & Lytle, D. A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93. -->
+
+<!-- Job ad [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Post-Doctoral-Fellow-Te-P%C5%ABnaha-Matatini,8304).  -->
 
 
 <!-- ## Positions 1-2: Postdoctoral Fellow and PhD student in metacommunity and evolutionary drivers of resilience -->
