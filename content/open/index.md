@@ -60,6 +60,7 @@ Applications for the PhD position should be emailed to jason.tylianakis@canterbu
 Note: In response to COVID-19 the New Zealand Government imposed travel restrictions, however, from 11:59pm on Friday 4 March, fully vaccinated New Zealand citizens, residents, and eligible travellers from the rest of the world will no longer have to self-isolate on arrival.
 
 
+--------
 
 
 ## Position 2: PhD in Uncovering the role of indirect species interactions in marine ecological networks in a warming world  
