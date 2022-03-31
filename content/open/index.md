@@ -60,6 +60,43 @@ Applications for the PhD position should be emailed to jason.tylianakis@canterbu
 Note: In response to COVID-19 the New Zealand Government imposed travel restrictions, however, from 11:59pm on Friday 4 March, fully vaccinated New Zealand citizens, residents, and eligible travellers from the rest of the world will no longer have to self-isolate on arrival.
 
 
+
+
+## Position 2: PhD in Uncovering the role of indirect species interactions in marine ecological networks in a warming world  
+School of Biological Sciences  
+University of Canterbury, New Zealand  
+March 2022
+
+The Tonkin and Thomsen Labs at the University of Canterbury, New Zealand are seeking outstanding applicants for one fully-funded PhD scholarship in quantitative community ecology. For this project, we seek use network analyses of species-interactions to uncover species-, interaction- and community-level responses to climate change, marine heatwaves, pollution, and species invasions.
+
+### The position  
+Marine ecosystems are losing biodiversity and ecosystem resilience as a result of pollution, invasive species, and climate change. We are increasingly aware of how these stressors have affected local community characteristics, such as species richness, diversity, dominance patterns, turnover, and multivariate structure. However, little is known about their effects on trait distributions and interaction networks, and how they may erode community stability and resilience. Although some indirect interactions, including trophic cascades and keystone predation, have been well studied, there are major gaps in our understanding about other types of indirect interactions and their importance in controlling community resilience to stressors. This project will address these research gaps, by analysing how trait distributions, and direct and indirect species interactions, are affected by climate change, heatwaves, pollution, and species invasions. The student will use network analyses of species-interactions to uncover species-, interaction- and community-level responses to various stressors, including marine heatwaves. Some analyses will use existing unpublished interaction data and species-sample matrices collected from rocky shores, seagrass beds and estuaries under different environmental stressors. Additional analysis will involve data extraction from published literature, including data related to species traits, and meta-analyses of indirect species interactions. If the student is interested in doing field or laboratory work, there are ample opportunities to collect supplementary data to improve the existing databases and test specific research questions in more detail. The student will be doing research and interacting with two dynamic lab-groups: Jonathan Tonkin’s lab (primary supervisor; http://tonkinlab.org) and Mads Thomsen’s lab (secondary supervisor; http://www.thomsenlab.com).
+
+
+### Qualifications  
+Undergraduate degree and Honours and/or Master's degree (with research component) in ecology or related field. Priority will be given to applicants with statistical/analytical/modelling and programming skills (e.g. R or python), and ideally experience with network analysis. In-depth knowledge of ecological theory and/or basic marine biology is an advantage. A demonstrated ability to publish in peer-reviewed journals will be viewed favourably. 
+
+### Location  
+This position will be based in the Tonkin (http://tonkinlab.org) and Thomsen (http://www.thomsenlab.com) lab groups in the School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. In the Tonkin Lab, we are, broadly speaking, community ecologists. But we ask a range of questions to understand how populations and communities vary in space and time. Our lab is focused on embracing diversity in its membership, and we encourage all suitably qualified individuals to apply. The School of Biological Sciences at the University of Canterbury benefits from a diverse community of researchers from a range of disciplines, supporting world-leading research across all levels of biological organisation. The University of Canterbury has a large and diverse postgraduate community, and a picturesque campus situated within reach of the mountains and sea. 
+
+**Further information:** http://tonkinlab.org/
+
+### Funding  
+The 3-year scholarship provides an annual stipend of NZD$28,000 (tax free) and covers full university fees (tuition). 
+
+### Start date  
+As soon as available; ideally before the last quarter of 2022. 
+
+### Contact  
+To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references **in a single pdf** to:  
+Dr. Jonathan Tonkin  
+School of Biological Sciences   
+University of Canterbury   
+jonathan.tonkin@canterbury.ac.nz
+
+The deadline for applications is 30 April 2022.
+
+
 <!-- -------- -->
 
 <!-- ## Position 2: Open call for PhD student in NZ or Australia.  -->
