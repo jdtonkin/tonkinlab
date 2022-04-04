@@ -20,6 +20,12 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**April 2022 » Welcome Dani!** We're delighted to officially welcome Dani Hernandez to the group as a PhD student! Great to have you aboard, Dani!
+
+**March 2022 » Jono joining the editorial board of Frontiers in Ecology and the Environment.** Jono is delighted to join the editorial board of Frontiers in Ecology and the Environment. 
+
+**March 2022 » New PhD position available!** Mads Thomsen and I are looking for a student for a project on uncovering the role of indirect species interactions in marine ecological networks in a warming world. And a reminder that Jason Tylianakis and I are looking for a student for a project on metacommunity and evolutionary drivers of resilience. Details: http://tonkinlab.org/open
+
 **Jan. 2022 » New postdoc position available!** We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. More details [here](/open) and [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Post-Doctoral-Fellow-Te-P%C5%ABnaha-Matatini,8304). 
 
 **Jan. 2022 » A new global agenda for advancing freshwater biodiversity research.** Jono was recently involved in a large global effort to come up with a new agenda for freshwater biodiversity research. "The proposed agenda aims to advance freshwater biodiversity research globally as a critical step in improving coordinated actions towards its sustainable management and conservation." See [publication](https://tonkinlab.org/publication/maasri-2021/). Thanks to Alain and Sonja for leading this important effort.
