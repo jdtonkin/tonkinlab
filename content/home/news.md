@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**April 2022 » Welcome Elizabeth!** We're delighted to welcome Elizabeth de Jongh to the group as a Postgraduate Scholar! 
+
 **April 2022 » Welcome Dani!** We're delighted to officially welcome Dani Hernandez to the group as a PhD student! Great to have you aboard, Dani!
 
 **March 2022 » Jono joining the editorial board of Frontiers in Ecology and the Environment.** Jono is delighted to join the editorial board of Frontiers in Ecology and the Environment. 
