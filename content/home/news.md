@@ -20,6 +20,8 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+**June 2022 » Postdoc position available!** We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. More details [here](/open) and [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Postdoctoral-Fellow-Quantitative-Freshwater-Ecology,8304). 
+
 **April 2022 » Welcome Elizabeth!** We're delighted to welcome Elizabeth de Jongh to the group as a Postgraduate Scholar! 
 
 **April 2022 » Welcome Dani!** We're delighted to officially welcome Dani Hernandez to the group as a PhD student! Great to have you aboard, Dani!

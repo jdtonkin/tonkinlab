@@ -63,39 +63,39 @@ Note: In response to COVID-19 the New Zealand Government imposed travel restrict
 --------
 
 
-## Position 2: PhD in Uncovering the role of indirect species interactions in marine ecological networks in a warming world  
-School of Biological Sciences  
-University of Canterbury, New Zealand  
-March 2022
+<!-- ## Position 2: PhD in Uncovering the role of indirect species interactions in marine ecological networks in a warming world   -->
+<!-- School of Biological Sciences   -->
+<!-- University of Canterbury, New Zealand   -->
+<!-- March 2022 -->
 
-The Tonkin and Thomsen Labs at the University of Canterbury, New Zealand are seeking outstanding applicants for one fully-funded PhD scholarship in quantitative community ecology. For this project, we seek use network analyses of species-interactions to uncover species-, interaction- and community-level responses to climate change, marine heatwaves, pollution, and species invasions.
+<!-- The Tonkin and Thomsen Labs at the University of Canterbury, New Zealand are seeking outstanding applicants for one fully-funded PhD scholarship in quantitative community ecology. For this project, we seek use network analyses of species-interactions to uncover species-, interaction- and community-level responses to climate change, marine heatwaves, pollution, and species invasions. -->
 
-### The position  
-Marine ecosystems are losing biodiversity and ecosystem resilience as a result of pollution, invasive species, and climate change. We are increasingly aware of how these stressors have affected local community characteristics, such as species richness, diversity, dominance patterns, turnover, and multivariate structure. However, little is known about their effects on trait distributions and interaction networks, and how they may erode community stability and resilience. Although some indirect interactions, including trophic cascades and keystone predation, have been well studied, there are major gaps in our understanding about other types of indirect interactions and their importance in controlling community resilience to stressors. This project will address these research gaps, by analysing how trait distributions, and direct and indirect species interactions, are affected by climate change, heatwaves, pollution, and species invasions. The student will use network analyses of species-interactions to uncover species-, interaction- and community-level responses to various stressors, including marine heatwaves. Some analyses will use existing unpublished interaction data and species-sample matrices collected from rocky shores, seagrass beds and estuaries under different environmental stressors. Additional analysis will involve data extraction from published literature, including data related to species traits, and meta-analyses of indirect species interactions. If the student is interested in doing field or laboratory work, there are ample opportunities to collect supplementary data to improve the existing databases and test specific research questions in more detail. The student will be doing research and interacting with two dynamic lab-groups: Jonathan Tonkin’s lab (primary supervisor; http://tonkinlab.org) and Mads Thomsen’s lab (secondary supervisor; http://www.thomsenlab.com).
+<!-- ### The position   -->
+<!-- Marine ecosystems are losing biodiversity and ecosystem resilience as a result of pollution, invasive species, and climate change. We are increasingly aware of how these stressors have affected local community characteristics, such as species richness, diversity, dominance patterns, turnover, and multivariate structure. However, little is known about their effects on trait distributions and interaction networks, and how they may erode community stability and resilience. Although some indirect interactions, including trophic cascades and keystone predation, have been well studied, there are major gaps in our understanding about other types of indirect interactions and their importance in controlling community resilience to stressors. This project will address these research gaps, by analysing how trait distributions, and direct and indirect species interactions, are affected by climate change, heatwaves, pollution, and species invasions. The student will use network analyses of species-interactions to uncover species-, interaction- and community-level responses to various stressors, including marine heatwaves. Some analyses will use existing unpublished interaction data and species-sample matrices collected from rocky shores, seagrass beds and estuaries under different environmental stressors. Additional analysis will involve data extraction from published literature, including data related to species traits, and meta-analyses of indirect species interactions. If the student is interested in doing field or laboratory work, there are ample opportunities to collect supplementary data to improve the existing databases and test specific research questions in more detail. The student will be doing research and interacting with two dynamic lab-groups: Jonathan Tonkin’s lab (primary supervisor; http://tonkinlab.org) and Mads Thomsen’s lab (secondary supervisor; http://www.thomsenlab.com). -->
 
 
-### Qualifications  
-Undergraduate degree and Honours and/or Master's degree (with research component) in ecology or related field. Priority will be given to applicants with statistical/analytical/modelling and programming skills (e.g. R or python), and ideally experience with network analysis. In-depth knowledge of ecological theory and/or basic marine biology is an advantage. A demonstrated ability to publish in peer-reviewed journals will be viewed favourably. 
+<!-- ### Qualifications   -->
+<!-- Undergraduate degree and Honours and/or Master's degree (with research component) in ecology or related field. Priority will be given to applicants with statistical/analytical/modelling and programming skills (e.g. R or python), and ideally experience with network analysis. In-depth knowledge of ecological theory and/or basic marine biology is an advantage. A demonstrated ability to publish in peer-reviewed journals will be viewed favourably.  -->
 
-### Location  
-This position will be based in the Tonkin (http://tonkinlab.org) and Thomsen (http://www.thomsenlab.com) lab groups in the School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. In the Tonkin Lab, we are, broadly speaking, community ecologists. But we ask a range of questions to understand how populations and communities vary in space and time. Our lab is focused on embracing diversity in its membership, and we encourage all suitably qualified individuals to apply. The School of Biological Sciences at the University of Canterbury benefits from a diverse community of researchers from a range of disciplines, supporting world-leading research across all levels of biological organisation. The University of Canterbury has a large and diverse postgraduate community, and a picturesque campus situated within reach of the mountains and sea. 
+<!-- ### Location   -->
+<!-- This position will be based in the Tonkin (http://tonkinlab.org) and Thomsen (http://www.thomsenlab.com) lab groups in the School of Biological Sciences, University of Canterbury, Christchurch, New Zealand. In the Tonkin Lab, we are, broadly speaking, community ecologists. But we ask a range of questions to understand how populations and communities vary in space and time. Our lab is focused on embracing diversity in its membership, and we encourage all suitably qualified individuals to apply. The School of Biological Sciences at the University of Canterbury benefits from a diverse community of researchers from a range of disciplines, supporting world-leading research across all levels of biological organisation. The University of Canterbury has a large and diverse postgraduate community, and a picturesque campus situated within reach of the mountains and sea.  -->
 
-**Further information:** http://tonkinlab.org/
+<!-- **Further information:** http://tonkinlab.org/ -->
 
-### Funding  
-The 3-year scholarship provides an annual stipend of NZD$28,000 (tax free) and covers full university fees (tuition). 
+<!-- ### Funding   -->
+<!-- The 3-year scholarship provides an annual stipend of NZD$28,000 (tax free) and covers full university fees (tuition).  -->
 
-### Start date  
-As soon as available; ideally before the last quarter of 2022. 
+<!-- ### Start date   -->
+<!-- As soon as available; ideally before the last quarter of 2022.  -->
 
-### Contact  
-To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references **in a single pdf** to:  
-Dr. Jonathan Tonkin  
-School of Biological Sciences   
-University of Canterbury   
-jonathan.tonkin@canterbury.ac.nz
+<!-- ### Contact   -->
+<!-- To apply email a cover letter that addresses your research interests and experience, curriculum vitae, and contact information for three references **in a single pdf** to:   -->
+<!-- Dr. Jonathan Tonkin   -->
+<!-- School of Biological Sciences    -->
+<!-- University of Canterbury    -->
+<!-- jonathan.tonkin@canterbury.ac.nz -->
 
-The deadline for applications is 30 April 2022.
+<!-- The deadline for applications is 30 April 2022. -->
 
 
 <!-- -------- -->
@@ -108,17 +108,17 @@ The deadline for applications is 30 April 2022.
 
 <!-- -------- -->
 
-<!-- ## Position 3: Postdoctoral Fellow -->
+## Position 2: Postdoctoral Fellow
 
-<!-- We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. By developing a combination of mechanistic, statistical and hybrid modelling approaches we will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers and robust to hydro-climatic nonstationarity. -->
+We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. By developing a combination of mechanistic, statistical and hybrid modelling approaches we will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers and robust to hydro-climatic nonstationarity.
 
-<!-- For background, see also: -->
+For background, see also:
 
-<!-- Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, J. S. Rogosch, and D. A. Lytle. (2021). Designing flow regimes to support entire river ecosystems. Frontiers in Ecology and the Environment. 19:326-333. -->
-<!-- Tonkin, J. D., N. L. Poff, N. R. Bond, A. Horne, David. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. (2019). Prepare river ecosystems for an uncertain future. Nature. 570:301-303. -->
-<!-- Tonkin, J. D., Olden, J. D., Merritt, D. M., Reynolds, L. V. & Lytle, D. A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93. -->
+Tonkin, J. D., J. D. Olden, D. M. Merritt, L. V. Reynolds, J. S. Rogosch, and D. A. Lytle. (2021). Designing flow regimes to support entire river ecosystems. Frontiers in Ecology and the Environment. 19:326-333.  
+Tonkin, J. D., N. L. Poff, N. R. Bond, A. Horne, David. M. Merritt, L. V. Reynolds, J. D. Olden, A. Ruhi, and D. A. Lytle. (2019). Prepare river ecosystems for an uncertain future. Nature. 570:301-303.  
+Tonkin, J. D., Olden, J. D., Merritt, D. M., Reynolds, L. V. & Lytle, D. A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93.
 
-<!-- Job ad [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Post-Doctoral-Fellow-Te-P%C5%ABnaha-Matatini,8304).  -->
+Job ad [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Postdoctoral-Fellow-Quantitative-Freshwater-Ecology,8304).
 
 
 <!-- ## Positions 1-2: Postdoctoral Fellow and PhD student in metacommunity and evolutionary drivers of resilience -->
