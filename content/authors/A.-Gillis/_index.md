@@ -7,7 +7,7 @@ authors:
 
 bio: 
 
-<!-- education: -->
+
   <!-- courses: -->
   <!-- - course: BS in Biology -->
   <!--   institution: University of Girona -->
