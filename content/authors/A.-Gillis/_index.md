@@ -27,7 +27,7 @@ interests:
 organizations:
 - name: University of Canterbury
   url: 
-role: *Incoming* PhD student
+role: Incoming PhD student
 
 social:
 <!-- - display: -->
