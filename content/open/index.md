@@ -17,50 +17,50 @@ header:
 <!-- No open positions right now. Check back later.  -->
 
 
-## Position 1: PhD student in metacommunity and evolutionary drivers of resilience
+<!-- ## Position 1: PhD student in metacommunity and evolutionary drivers of resilience -->
 
-School of Biological Sciences  
-University of Canterbury, New Zealand
+<!-- School of Biological Sciences   -->
+<!-- University of Canterbury, New Zealand -->
 
-### About the project
-There is an upcoming opening for one PhD student in the labs of Prof. Jason Tylianakis and Dr. Jonathan Tonkin at the University of Canterbury in Christchurch, Aotearoa New Zealand, to work in collaboration with and funded by the Principal Investigators in Bioprotection Aotearoa Centre of Research Excellence.
+<!-- ### About the project -->
+<!-- There is an upcoming opening for one PhD student in the labs of Prof. Jason Tylianakis and Dr. Jonathan Tonkin at the University of Canterbury in Christchurch, Aotearoa New Zealand, to work in collaboration with and funded by the Principal Investigators in Bioprotection Aotearoa Centre of Research Excellence. -->
 
-### Project background
-Species interactions influence how they adapt to the environment, and the interactions themselves are subject to evolutionary, coevolutionary and spatial (metacommunity) processes. While pest outbreaks are typically rare (insect herbivores are suppressed by natural enemies) climate change can alter this suppression. Moreover, the presumed long-term stability of biocontrol has been challenged by our team’s recent research that demonstrates evolution of pest resistance to enemies. As evolution against enemies can influence responses to environmental extremes, and climate can influence mechanisms of coevolution, the evolution of pest resistance to enemies will be influenced by population and community source-sink spatial processes that occur alongside environmental stressors. This position is part of a broader project entitled “Understanding metacommunity and evolutionary drivers of resilience to pests”, in which we aim to understand how the spatial arrangement of land uses influences species interactions (focusing on biological pest management as the context), with a vision to developing guidelines for maintaining the evolutionary resilience of biological control under environmental change.
+<!-- ### Project background -->
+<!-- Species interactions influence how they adapt to the environment, and the interactions themselves are subject to evolutionary, coevolutionary and spatial (metacommunity) processes. While pest outbreaks are typically rare (insect herbivores are suppressed by natural enemies) climate change can alter this suppression. Moreover, the presumed long-term stability of biocontrol has been challenged by our team’s recent research that demonstrates evolution of pest resistance to enemies. As evolution against enemies can influence responses to environmental extremes, and climate can influence mechanisms of coevolution, the evolution of pest resistance to enemies will be influenced by population and community source-sink spatial processes that occur alongside environmental stressors. This position is part of a broader project entitled “Understanding metacommunity and evolutionary drivers of resilience to pests”, in which we aim to understand how the spatial arrangement of land uses influences species interactions (focusing on biological pest management as the context), with a vision to developing guidelines for maintaining the evolutionary resilience of biological control under environmental change. -->
 
-See also:  
-1. **Tylianakis J.M.** & Maia L.F. (2020) Eco-evolutionary dynamics: The patchwork of evolutionary landscapes. Nature Ecology and Evolution. 4, 672-673.  
-2. Tomasetto F., **Tylianakis J.M.**, Reale M., Wratten S.D. & Goldson S.L. (2017) Intensified agriculture favors evolved resistance to biological control. Proc. Natl. Acad. Sci. USA. 114, 3885-3890.  
-3. **Tonkin, J.D.**, Olden, J.D., Merritt, D.M., Reynolds, L.V. & Lytle, D.A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93.
+<!-- See also:   -->
+<!-- 1. **Tylianakis J.M.** & Maia L.F. (2020) Eco-evolutionary dynamics: The patchwork of evolutionary landscapes. Nature Ecology and Evolution. 4, 672-673.   -->
+<!-- 2. Tomasetto F., **Tylianakis J.M.**, Reale M., Wratten S.D. & Goldson S.L. (2017) Intensified agriculture favors evolved resistance to biological control. Proc. Natl. Acad. Sci. USA. 114, 3885-3890.   -->
+<!-- 3. **Tonkin, J.D.**, Olden, J.D., Merritt, D.M., Reynolds, L.V. & Lytle, D.A. (2018). Flow regime alteration degrades ecological networks in riparian ecosystems. Nature Ecology & Evolution. 2, 86-93. -->
 
-### Research aim
-The aim of the **PhD position** is to address the link between ecological and evolutionary processes at local and regional scales, using a model community of host insects and their parasitoids. There will be some flexibility for the candidate to develop the specific research project, but it will likely involve the use of laboratory mesocosms to manipulate dispersal, species diversity, environmental (nutrient and climate) heterogeneity and stochasticity to deconstruct how local species richness and spatial variability in community composition stabilise regional biodiversity through ecological insurance effects and spatial evolutionary dynamics. 
+<!-- ### Research aim -->
+<!-- The aim of the **PhD position** is to address the link between ecological and evolutionary processes at local and regional scales, using a model community of host insects and their parasitoids. There will be some flexibility for the candidate to develop the specific research project, but it will likely involve the use of laboratory mesocosms to manipulate dispersal, species diversity, environmental (nutrient and climate) heterogeneity and stochasticity to deconstruct how local species richness and spatial variability in community composition stabilise regional biodiversity through ecological insurance effects and spatial evolutionary dynamics.  -->
 
-### Who you are
-You must have completed an undergraduate degree and Honours or Master's degree (with a significant research component) in ecology or related field. A strong background in data analysis, experience working with insects and evidence of motivation to publish would be an advantage. Once selected, the preferred candidate would then need to apply to study at The University of Canterbury and meet the institutional [criteria](https://www.canterbury.ac.nz/enrol/doctoral/document-requirements/) for entry prior to the scholarship being confirmed (check whether you meet these requirements [here](https://checkwhatyouneed.canterbury.ac.nz/checkrequirements/postgraduate)).
+<!-- ### Who you are -->
+<!-- You must have completed an undergraduate degree and Honours or Master's degree (with a significant research component) in ecology or related field. A strong background in data analysis, experience working with insects and evidence of motivation to publish would be an advantage. Once selected, the preferred candidate would then need to apply to study at The University of Canterbury and meet the institutional [criteria](https://www.canterbury.ac.nz/enrol/doctoral/document-requirements/) for entry prior to the scholarship being confirmed (check whether you meet these requirements [here](https://checkwhatyouneed.canterbury.ac.nz/checkrequirements/postgraduate)). -->
 
-For this position, you must be able to start the position in early 2022. If managed isolation is required (due to COVID-19) at the time of entry, the grant will cover these expenses, though the government has stated that this requirement will be lifted for NZ citizens/residents in February and international citizens in April (with proof of vaccination).
+<!-- For this position, you must be able to start the position in early 2022. If managed isolation is required (due to COVID-19) at the time of entry, the grant will cover these expenses, though the government has stated that this requirement will be lifted for NZ citizens/residents in February and international citizens in April (with proof of vaccination). -->
 
-### Who you will work with
-The position will be jointly supervised by Jason Tylianakis and Jono Tonkin, and will work collaboratively with a postdoc who is using theoretical approaches to address the same questions. The [Tylianakis](http://tylianakislab.org) and [Tonkin](http://tonkinlab.org) Labs both have a strong focus on understanding the impacts of environmental change on ecological communities. Our labs are diverse and interdisciplinary in thought and approach. The lab groups strive to cultivate an open, safe and supportive environment that values creativity, diversity, integrity and collaboration. We would therefore welcome applications from under-represented groups. For more information about both of our teams, please visit us our websites: http://tylianakislab.org, http://tonkinlab.org. 
+<!-- ### Who you will work with -->
+<!-- The position will be jointly supervised by Jason Tylianakis and Jono Tonkin, and will work collaboratively with a postdoc who is using theoretical approaches to address the same questions. The [Tylianakis](http://tylianakislab.org) and [Tonkin](http://tonkinlab.org) Labs both have a strong focus on understanding the impacts of environmental change on ecological communities. Our labs are diverse and interdisciplinary in thought and approach. The lab groups strive to cultivate an open, safe and supportive environment that values creativity, diversity, integrity and collaboration. We would therefore welcome applications from under-represented groups. For more information about both of our teams, please visit us our websites: http://tylianakislab.org, http://tonkinlab.org.  -->
 
-### Background to Bioprotection Aotearoa
-Bioprotection Aotearoa is a national Centre of Research Excellence that exists to train the next generation of bioprotection researchers and to deliver world-class research that protects the productive and natural landscapes of Aotearoa New Zealand. Our mission is to educate our nation’s future bioprotection leaders by collaborating to conduct pioneering, multi-disciplinary research that addresses the environmental challenges Aotearoa New Zealand is facing. We draw on our collective academic strengths to develop new and innovative solutions that protect our productive and natural landscapes from climate change, pathogens, pests and weeds. Our kaupapa is guided by a unique mātauranga Māori and science framework - *Te Taiao-a-rangi* - which supports a holistic, systems-level approach to achieving intergenerational environmental sustainability. This position is funded by, and sits within, the Bioprotection Aotearoa science programme.
+<!-- ### Background to Bioprotection Aotearoa -->
+<!-- Bioprotection Aotearoa is a national Centre of Research Excellence that exists to train the next generation of bioprotection researchers and to deliver world-class research that protects the productive and natural landscapes of Aotearoa New Zealand. Our mission is to educate our nation’s future bioprotection leaders by collaborating to conduct pioneering, multi-disciplinary research that addresses the environmental challenges Aotearoa New Zealand is facing. We draw on our collective academic strengths to develop new and innovative solutions that protect our productive and natural landscapes from climate change, pathogens, pests and weeds. Our kaupapa is guided by a unique mātauranga Māori and science framework - *Te Taiao-a-rangi* - which supports a holistic, systems-level approach to achieving intergenerational environmental sustainability. This position is funded by, and sits within, the Bioprotection Aotearoa science programme. -->
 
-### Funding notes
-The 3-year PhD Scholarship provides an annual stipend of NZ$28,000 a year tax-free, covers full university fees, and the project has additional funding towards operating expenses.
+<!-- ### Funding notes -->
+<!-- The 3-year PhD Scholarship provides an annual stipend of NZ$28,000 a year tax-free, covers full university fees, and the project has additional funding towards operating expenses. -->
 
-### How you apply
-To apply, please provide a cover letter that addresses your research interests and experience, specific directions in which you would like to see this position go, Curriculum Vitae, and contact information for three references as **a single pdf file** (with your name in the file name).
+<!-- ### How you apply -->
+<!-- To apply, please provide a cover letter that addresses your research interests and experience, specific directions in which you would like to see this position go, Curriculum Vitae, and contact information for three references as **a single pdf file** (with your name in the file name). -->
 
-Applications for the PhD position should be emailed to jason.tylianakis@canterbury.ac.nz  with “PhD in eco-evo dynamics” in the subject line of your email.
+<!-- Applications for the PhD position should be emailed to jason.tylianakis@canterbury.ac.nz  with “PhD in eco-evo dynamics” in the subject line of your email. -->
 
-**NOTE: THIS IS OPEN TO ALL INTERNATIONAL CANDIDATES.**
+<!-- **NOTE: THIS IS OPEN TO ALL INTERNATIONAL CANDIDATES.** -->
 
-Note: In response to COVID-19 the New Zealand Government imposed travel restrictions, however, from 11:59pm on Friday 4 March, fully vaccinated New Zealand citizens, residents, and eligible travellers from the rest of the world will no longer have to self-isolate on arrival.
+<!-- Note: In response to COVID-19 the New Zealand Government imposed travel restrictions, however, from 11:59pm on Friday 4 March, fully vaccinated New Zealand citizens, residents, and eligible travellers from the rest of the world will no longer have to self-isolate on arrival. -->
 
 
---------
+<!-- -------- -->
 
 
 <!-- ## Position 2: PhD in Uncovering the role of indirect species interactions in marine ecological networks in a warming world   -->
@@ -108,7 +108,7 @@ Note: In response to COVID-19 the New Zealand Government imposed travel restrict
 
 <!-- -------- -->
 
-## Position 2: Postdoctoral Fellow
+## Postdoctoral Fellow
 
 We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. By developing a combination of mechanistic, statistical and hybrid modelling approaches we will enable both near-term forecasts and longer-term projections of various climate-change scenarios that are relevant to decision makers and robust to hydro-climatic nonstationarity.
 
