@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Olivia Hore 
-weight: 402
+weight: 103
 
 # Username (this should match the folder name)
 authors:
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Team
+- Alumni
 ---
 
 _Lead supervisor: [Angus McIntosh](https://www.canterbury.ac.nz/science/contact-us/people/angus-mcintosh.html)_

@@ -1,6 +1,6 @@
 ---
 name: "Elizabeth de Jongh"
-weight: 501
+weight: 101
 
 authors: 
 - E.-de-Jongh
@@ -49,7 +49,7 @@ social:
 superuser: false
 
 user_groups:
-- Team
+- Alumni
 
 ---
  
