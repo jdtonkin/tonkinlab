@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Incoming PhD student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -62,5 +62,8 @@ user_groups:
 - Team
 ---
 
-
-To come
+My research emphasizes understanding the biological regimes that underpin key ecological and evolutionary processes, e.g., functional trait diversity, population dynamics, coevolutionary trade-offs, and climate change ecology. I am also interested in reading and discussing more theoretical problems on systematics, taxonomy, biogeography, and genetics at leisure, with the strong intent to integrate them into my research topics.
+ 
+I started my journey counting aster pollens under a microscope and watching insect video tapes to measure their activities during my undergraduate studies at UC Davis (B.Sc. Evolution, Ecology and Biodiversity), followed by more theoretical work tracking the evolution of bumblebee functional traits and measuring chaos in natural populations for my Masters’ study at Imperial College (MRes. Ecology, Evolution and Bioconservation). The intersection of all these seemingly unrelated topics lies on the rapidly changing environment of our planet. Concerned and intrigued by the potential ramifications in our ecosystems in the near future, my work focuses on understanding and, hopefully, forecasting the ecosystem response to a changing world.
+ 
+I am extremely grateful to move on to my PhD studies mentored by Dr. Jason Tylianakis and Dr. Jonathan Tonkin, enhancing my understanding of the co-evolutionary, spatiotemporal, and ecological relations between a host-parasitoid pair under environmental change. The grander vision of the project aims to construct a meta-community model to aid our understandings in community ecological and evolutionary responses to perturbations.

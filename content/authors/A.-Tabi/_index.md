@@ -63,4 +63,6 @@ user_groups:
 ---
 
 
-To come
+My research focus is on the universal patterns of biodiversity in complex ecological systems through exploring their dynamical behaviour, network structure and information content. I graduated with an MSc in Quantitative and Systems biology and then obtained a PhD in Ecology at the University of Zurich, Switzerland. My PhD work focused on explaining and predicting the responses of ecological systems to environmental change across levels of biological organisations using a combination of experimentation, computational modelling, and statistical analyses.  
+
+Currently, I am a Postdoctoral Researcher in Tonkin lab, where we will aim to develop novel quantitative forecasting methods that are robust to hydro-climatic nonstationarity to forecast NZ’s freshwater fish species responses to various climate change and management scenarios.
