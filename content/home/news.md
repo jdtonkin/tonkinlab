@@ -21,9 +21,9 @@ subtitle = ""
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
 
-**Feb. 20203 » Welcome Li!** We're delighted to welcome Li Wang to the group as a PhD student working on host-parasitoid coevolution as part of a project funded by Bioprotection Aotearoa working with Jason Tylianakis and I! Great to have you aboard, Li!
+**Feb. 2023 » Welcome Li!** We're delighted to welcome Li Wang to the group as a PhD student working on host-parasitoid coevolution as part of a project funded by Bioprotection Aotearoa working with Jason Tylianakis and I! Great to have you aboard, Li!
 
-**Jan. 2023 » Jono promoted to Associate Professor!** Jono has recently been promoted to Associate Professor. Thanks to all the amazing collaborators and mentors who helped him get there. 
+**Jan. 2023 » Jono promoted to Associate Professor.** Jono has recently been promoted to Associate Professor. Thanks to all the amazing collaborators and mentors who helped him get there. 
 
 **November 2022 » Welcome Jack!** Jack Anderson has joined the group as a Te Punaha Matatini-funded summer student working with Anne McLeod! Great to have you aboard, Jack!
 
