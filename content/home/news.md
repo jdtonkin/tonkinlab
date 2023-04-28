@@ -20,6 +20,19 @@ subtitle = ""
 
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
+
+**Feb. 20203 » Welcome Li!** We're delighted to welcome Li Wang to the group as a PhD student working on host-parasitoid coevolution as part of a project funded by Bioprotection Aotearoa working with Jason Tylianakis and I! Great to have you aboard, Li!
+
+**Jan. 2023 » Jono promoted to Associate Professor!** Jono has recently been promoted to Associate Professor. Thanks to all the amazing collaborators and mentors who helped him get there. 
+
+**November 2022 » Welcome Jack!** Jack Anderson has joined the group as a Te Punaha Matatini-funded summer student working with Anne McLeod! Great to have you aboard, Jack!
+
+**November 2022 » Welcome Andi!** We're delighted to welcome Andrea Tabi to the group as a Postdoctoral Fellow working on our Te Punaha Matatini freshwater forecasting project! Great to have you aboard, Andi!
+
+**October 2022 » Welcome Anthony!** We're delighted to welcome Anthony Gillis to the group as a PhD student working on marine species interaction networks! Great to have you aboard, AJ!
+
+**July 2022 » Gabi's first PhD chapter published in TREE!** Congrats on the paper, Gabi. Gabi led a stellar effort on forecasting the future of life in Antarctica in Trends in Ecology and Evolution. Paper [here](https://doi.org/10.1016/j.tree.2022.07.009) and pdf [here](/publication/koerich-22-forecasting/)
+
 **June 2022 » Postdoc position available!** We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. More details [here](/open) and [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Postdoctoral-Fellow-Quantitative-Freshwater-Ecology,8304). 
 
 **April 2022 » Welcome Elizabeth!** We're delighted to welcome Elizabeth de Jongh to the group as a Postgraduate Scholar! 
