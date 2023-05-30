@@ -97,6 +97,10 @@ I started with a PhD at [Massey University](http://www.massey.ac.nz/) in New Zea
 
 
 ## Editorial Boards
+### Present
+- [Frontiers in Ecology & the Environment](https://esajournals.onlinelibrary.wiley.com/journal/15409309)
 - [Freshwater Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2427)
+
+### Historical
 - [Austral Ecology](https://onlinelibrary.wiley.com/journal/14429993)
 - [PeerJ](https://peerj.com/)
