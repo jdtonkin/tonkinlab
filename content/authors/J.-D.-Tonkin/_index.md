@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Lecturer & Rutherford Discovery Fellow
+role: Associate Professor & Rutherford Discovery Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -85,13 +85,15 @@ I started with a PhD at [Massey University](http://www.massey.ac.nz/) in New Zea
 
 
 ## Academic appointments  
-* **September 2019 - Present:** Senior Lecturer at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
-* **March 2019 - Present:** Associate Investigator, [Te Pūnaha Matatini](https://www.tepunahamatatini.ac.nz/)—a New Zealand Centre of Research Excellence for Complex Systems and Networks.  
-* **September 2018 - August 2019:** Postdoctoral fellow at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
-* **October 2015 – September 2018:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
-* **September 2013 – September 2015:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.  
-* **August 2012 – August 2013:** Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), Suzhou, Jiangsu Province, China.  
-* **February 2011 – July 2012:** Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
+* **2023-Present:** Associate Professor at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
+* **2019-2022:** Senior Lecturer at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
+* **2021-Present:** Investigator, [Bioprotection Aotearoa](https://bioprotection.org.nz/)—a New Zealand Centre of Research Excellence.  
+* **2019-Present:** Investigator, [Te Pūnaha Matatini](https://www.tepunahamatatini.ac.nz/)—a New Zealand Centre of Research Excellence for Complex Systems and Networks.  
+* **2018-2019:** Postdoctoral fellow at [the University of Canterbury](https://www.canterbury.ac.nz/), Christchurch, New Zealand.  
+* **2015-2018:** Postdoctoral scholar at [Oregon State University](http://oregonstate.edu/) in Corvallis, OR, USA, based in the [Department of Integrative Biology](http://ib.oregonstate.edu/).  
+* **2013-2015:** Postdoctoral Researcher at [Senckenberg](http://www.senckenberg.de/root/index.php?page_id=71) Research Institute and Natural History Museum, Gelnhausen, Germany.  
+* **2012-2013:** Lecturer at [Xi’an Jiaotong-Liverpool University in Suzhou](http://www.xjtlu.edu.cn/en/), Suzhou, Jiangsu Province, China.  
+* **2011–2012:** Academic Staff Member at [Bay of Plenty Polytechnic](http://www.boppoly.ac.nz/), Tauranga, New Zealand.  
 
 
 ## Editorial Boards
