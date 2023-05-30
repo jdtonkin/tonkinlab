@@ -21,6 +21,11 @@ subtitle = ""
 <div style="overflow: auto; height:500pt; width:100%; padding-right: 20px;">
 
 
+ 
+**May 2023 » Jono wins major award.** Jono was recently honoured by receiving New Zealand's Prime Minister's Te Puiaki Kaipūtaiao Maea MacDiarmid Emerging Scientist Prize for 2022. Details can be found here [here](https://pmscienceprizes.org.nz/2022-winner-of-te-puiaki-kaiputaiao-maea-the-macdiarmid-emerging-scientist-prize/). 
+
+**May 2023 » Congratulations Rory!** Rory recently handed in his honours thesis on trout galaxiid interactions in response to major floods. Congratulations on a great thesis, Rory! 
+
 **Feb. 2023 » Welcome Li!** We're delighted to welcome Li Wang to the group as a PhD student working on host-parasitoid coevolution as part of a project funded by Bioprotection Aotearoa working with Jason Tylianakis and I! Great to have you aboard, Li!
 
 **Jan. 2023 » Jono promoted to Associate Professor.** Jono has recently been promoted to Associate Professor. Thanks to all the amazing collaborators and mentors who helped him get there. 
@@ -33,7 +38,7 @@ subtitle = ""
 
 **July 2022 » Gabi's first PhD chapter published in TREE!** Congrats on the paper, Gabi. Gabi led a stellar effort on forecasting the future of life in Antarctica in Trends in Ecology and Evolution. Paper [here](https://doi.org/10.1016/j.tree.2022.07.009) and pdf [here](/publication/koerich-22-forecasting/)
 
-**June 2022 » Postdoc position available!** We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aoteaora under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. More details [here](/open) and [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Postdoctoral-Fellow-Quantitative-Freshwater-Ecology,8304). 
+**June 2022 » Postdoc position available!** We're looking for a Postdoctoral Fellow to participate in a research project, Achieving sustainable and resilient river ecosystems in Aotearoa under climate change, funded by Te Pūnaha Matatini. Your role will focus on forecasting freshwater fish community responses to climate change and to generate near-term forecasts and long-term projections of freshwater fish community responses to changing flow regimes. More details [here](/open) and [here](https://jobs.canterbury.ac.nz/jobdetails/ajid/NQfU7/Postdoctoral-Fellow-Quantitative-Freshwater-Ecology,8304). 
 
 **April 2022 » Welcome Elizabeth!** We're delighted to welcome Elizabeth de Jongh to the group as a Postgraduate Scholar! 
 
