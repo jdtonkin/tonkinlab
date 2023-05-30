@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "New ways to forecast biodiversity"
-subtitle = "Jono was recently honoured with New Zealand's Prime Minister's Te Puiaki Kaipūtaiao Maea MacDiarmid Emerging Scientist Prize for 2022. 
+subtitle = "Jono was recently honoured with New Zealand's Prime Minister's Te Puiaki Kaipūtaiao Maea MacDiarmid Emerging Scientist Prize for 2022. Details [here](https://pmscienceprizes.org.nz/2022-winner-of-te-puiaki-kaiputaiao-maea-the-macdiarmid-emerging-scientist-prize/)."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
