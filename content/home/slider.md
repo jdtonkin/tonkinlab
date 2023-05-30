@@ -16,7 +16,7 @@ height = "450px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Recent paper in *Nature*"
+  title = "Featured paper in *Nature*"
   content = "To prepare river ecosystems for an uncertain future, we must adapt the way we model and manage them.<br><br>"
   align = "center"  # Choose `center`, `left`, or `right`.
 
