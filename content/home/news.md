@@ -22,7 +22,7 @@ subtitle = ""
 
 
  
-**May 2023 » Jono wins major award.** Jono was recently honoured by receiving New Zealand's Prime Minister's Te Puiaki Kaipūtaiao Maea MacDiarmid Emerging Scientist Prize for 2022. Details can be found here [here](https://pmscienceprizes.org.nz/2022-winner-of-te-puiaki-kaiputaiao-maea-the-macdiarmid-emerging-scientist-prize/).
+**May 2023 » Jono wins major award.** Jono was recently honoured by receiving New Zealand's Prime Minister's Te Puiaki Kaipūtaiao Maea MacDiarmid Emerging Scientist Prize for 2022. Details can be found here [here](https://pmscienceprizes.org.nz/2022-winner-of-te-puiaki-kaiputaiao-maea-the-macdiarmid-emerging-scientist-prize/). 
 
 **May 2023 » Congratulations Rory!** Rory recently handed in his honours thesis on trout galaxiid interactions in response to major floods. Congratulations on a great thesis, Rory! 
 
