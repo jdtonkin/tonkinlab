@@ -17,6 +17,7 @@ copyright = "&copy; Jonathan Tonkin {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-148887302-1"
+google_tag_manager = "G-7XG7KDT7JD"
 
 ############################
 ## Advanced options below ##
@@ -79,4 +80,3 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     # 'Book chapter',  # 6
     # 'working paper', # 7
     # 'peer-reviewed' # 8
- 
