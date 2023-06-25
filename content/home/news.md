@@ -34,7 +34,7 @@ subtitle = ""
 
 **November 2022 » Welcome Andi!** We're delighted to welcome Andrea Tabi to the group as a Postdoctoral Fellow working on our Te Punaha Matatini freshwater forecasting project! Great to have you aboard, Andi!
 
-**October 2022 » Welcome Anthony!** We're delighted to welcome Anthony Gillis to the group as a PhD student working on marine species interaction networks! Great to have you aboard, AJ!
+**October 2022 » Welcome Anthony!** We're delighted to welcome Anthony Gillis to the group as a PhD student working on marine species interaction networks! Great to have you aboard, AJ! 
 
 **July 2022 » Gabi's first PhD chapter published in TREE!** Congrats on the paper, Gabi. Gabi led a stellar effort on forecasting the future of life in Antarctica in Trends in Ecology and Evolution. Paper [here](https://doi.org/10.1016/j.tree.2022.07.009) and pdf [here](/publication/koerich-22-forecasting/)
 
