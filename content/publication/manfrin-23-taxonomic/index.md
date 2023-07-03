@@ -1,0 +1,13 @@
+---
+title: "Taxonomic and Functional Reorganization in Central European Stream Macroinvertebrate Communities over 25 Years"
+date: 2023-09-01
+publishDate: 2023-07-03T04:49:49.871178Z
+authors: ["Alessandro Manfrin", "Francesca Pilotto", "Stefano Larsen", "Jonathan D. Tonkin", "Armin W. Lorenz", "Peter Haase", "Stefan Stoll"]
+publication_types: ["2"]
+abstract: "Climate warming can lead to a replacement of species that favour cold temperatures by species that favour warm temperatures. However, the implications of such thermic shifts for the functioning of ecosystems remain poorly understood. Here, we used stream macroinvertebrate biological and ecological traits to quantify the relative contribution of cold, intermediate and warm temperature-adapted taxa to changes in community functional diversity (FD) using a dataset of 3781 samples collected in Central Europe over 25~years, from 1990 to 2014. Our analyses indicated that functional diversity of stream macroinvertebrate communities increased over the study period. This gain was driven by a net 39~% increase in the richness of taxa that favour intermediate temperatures, which comprise the highest share in the community, and to a 97~% increase in the richness of taxa that favour warm temperatures. These warm temperature-adapted taxa displayed a distinct and more diverse suite of functional traits compared to the cold temperature-adapted group and thus contributed disproportionately to local FD on a per-taxon basis. At the same time, taxonomic beta-diversity declined significantly within each thermal group, in association with increasing local taxon richness. This study shows that over recent decades, small low-mountain streams in Central Europe have experienced a process of thermophilization and increasing functional diversity at local scales. However, a progressive homogenisation occurred at the regional scale, with communities converging towards similar taxonomic composition. As the reported increase in local functional diversity can be attributed mostly to the intermediate temperature-adapted taxa and a few expanding warm temperature-adapted taxa, these patterns could mask more subtle loss of sensitive cold temperature-adapted taxa with irreplaceable functional traits. In light of increasing climate warming, preservation of cold habitat refuges, should be considered a priority in river conservation."
+featured: false
+publication: "*Science of The Total Environment*"
+tags: ["Aquatic insects", "Benthic communities", "Ecological species traits", "Functional diversity", "Global change", "Global warming", "Macrozoobenthos", "Rivers", "Streams"]
+doi: "10.1016/j.scitotenv.2023.164278"
+---
+
