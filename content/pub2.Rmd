@@ -51,7 +51,7 @@ for (i in 1:length(bib_df) ){
 
   # if(any(names(bib_df)=="FILE")){
   #   if( !is.na(bib_df[i,"FILE"]) ){
-      pdf_url <- paste0("../assets/pubs/pdfs/",bib_df[i,"BIBTEXKEY"], collapse = "")
+      pdf_url <- paste0("../assets/pubs/pdfs/",bib_df[i,"BIBTEXKEY"], ".pdf", collapse = "")
       cat(c("  ",'<a href="',pdf_url,'"> <i class="fas fa-file-pdf"> pdf </i></a>'),
         sep="")
   #   }
