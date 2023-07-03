@@ -1,5 +1,6 @@
 ---
 title: "Pub2"
+output: md_document
 ---
 
 Latest update - `r format(Sys.time(), '%d %B, %Y')`
