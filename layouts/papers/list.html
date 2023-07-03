@@ -8,9 +8,9 @@
 
         {{ $idyear := newScratch }}
         {{ range $publication := $publications }}
-        {{ $year := index $publication.issued "date-parts" 0 0 | int }}
-        {{ $month := index $publication.issued "date-parts" 0 1 | int }}
-        {{ $day := index $publication.issued "date-parts" 0 1 | int }}
+        {{ $year := index $publication.issued "date" 0 0 | int }}
+        {{ $month := index $publication.issued "date" 0 1 | int }}
+        {{ $day := index $publication.issued "date" 0 1 | int }}
         {{ $fyear := printf "%04d" (sub $year 3000)}}
         {{ $fmonth := printf "%02d" (sub $month 12) }}
         {{ $fday := printf "%02d" (sub $day 31) }}
