@@ -52,11 +52,15 @@ for (i in 1:length(bib_df) ){
   # if(any(names(bib_df)=="FILE")){
   #   if( !is.na(bib_df[i,"FILE"]) ){
       pdf_url <- paste0("../assets/pubs/pdfs/",bib_df[i,"BIBTEXKEY"], ".pdf", collapse = "")
-      cat(c("  ",'<a href="',pdf_url,'"> <i class="fas fa-file-pdf"> pdf </i></a>'),
+      cat(c("  ",'<a href="',pdf_url,'"> <i class="fa fa-fw fa-file-pdf-o"> pdf </i></a>'),
         sep="")
   #   }
   # }
 
+ #      [<i class="fa fa-fw fa-file-pdf-o"></i>]({{ "/assets/pdfs/2018_Tonkin_etal_Nature_Eco_Evo.pdf" | absolute_url }})
+      
+      
+      
   if(any(names(bib_df)=="URL_WEBSITE")){
     if( !is.na(bib_df[i,"URL_WEBSITE"]) ){
       pdf_url <- as.character(bib_df[i,"URL_WEBSITE"])
