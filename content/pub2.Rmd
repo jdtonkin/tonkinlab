@@ -28,7 +28,7 @@ lab <- c("JD Tonkin")
 ## get publication list
 #pubs <- bibliography_entries("data/MyPubs.bib")
 
-bib_df <- bib2df::bib2df("data/MyPubs.bib", separate_names = FALSE)
+bib_df <- bib2df::bib2df("../assets/pubs/MyPubs.bib", separate_names = FALSE)
 
 # bib_df <- bib_df %>% 
 #   mutate(FILE = paste0("data/pdfs/", BIBTEXKEY))
@@ -51,7 +51,7 @@ for (i in 1:length(bib_df) ){
 
   # if(any(names(bib_df)=="FILE")){
   #   if( !is.na(bib_df[i,"FILE"]) ){
-      pdf_url <- paste0("data/pdfs/",bib_df[i,"BIBTEXKEY"], collapse = "")
+      pdf_url <- paste0("../assets/pubs/pdfs/",bib_df[i,"BIBTEXKEY"], collapse = "")
       cat(c("  ",'<a href="',pdf_url,'"> <i class="fas fa-file-pdf"> pdf </i></a>'),
         sep="")
   #   }
